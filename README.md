@@ -34,6 +34,13 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://github.com/szagoruyko/attention-transfer)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
+- [Densely Connected Convolutional Networks](https://github.com/bamos/densenet.pytorch)
+- [A Neural Algorithm of Artistic Style](https://github.com/alexis-jacq/Pytorch-Tutorials)
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://github.com/jcjohnson/pytorch-vgg)
+- [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://github.com/gsp-27/pytorch_Squeezenet)
+
+## Projects in Pytorch
+- [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
