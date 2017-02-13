@@ -37,7 +37,13 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 - [Densely Connected Convolutional Networks](https://github.com/bamos/densenet.pytorch)
 - [A Neural Algorithm of Artistic Style](https://github.com/alexis-jacq/Pytorch-Tutorials)
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://github.com/jcjohnson/pytorch-vgg)
+	- VGG model in PyTorch.
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://github.com/gsp-27/pytorch_Squeezenet)
+- [Network In Network](https://github.com/szagoruyko/functional-zoo)
+- [Deep Residual Learning for Image Recognition](https://github.com/szagoruyko/functional-zoo)
+	- ResNet model in PyTorch.
+- [Wide Residual Networks](https://github.com/szagoruyko/functional-zoo)
+	- Wide ResNet model in PyTorch
 
 ## Projects in Pytorch
 - [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
