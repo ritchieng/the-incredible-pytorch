@@ -44,11 +44,30 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 	- ResNet model in PyTorch.
 - [Wide Residual Networks](https://github.com/szagoruyko/functional-zoo)
 	- Wide ResNet model in PyTorch
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/longcw/faster_rcnn_pytorch)
 
 ## Projects in Pytorch
 - [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
+- [Collection of Generative Models with PyTorch](https://github.com/wiseodd/generative-models)
+	- Generative Adversarial Nets (GAN)
+		1. [Vanilla GAN](https://arxiv.org/abs/1406.2661)
+		2. [Conditional GAN](https://arxiv.org/abs/1411.1784)
+		3. [InfoGAN](https://arxiv.org/abs/1606.03657)
+		4. [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+		5. [Mode Regularized GAN](https://arxiv.org/abs/1612.02136)
+	- Variational Autoencoder (VAE)
+		1. [Vanilla VAE](https://arxiv.org/abs/1312.6114)
+		2. [Conditional VAE](https://arxiv.org/abs/1406.5298)
+		3. [Denoising VAE](https://arxiv.org/abs/1511.06406)
+		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
+		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
 - [StackOverFlow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
+
+## Contributions
+Do feel free to contribute! 
+
+You can raise an isssue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point. 
