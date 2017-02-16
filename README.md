@@ -29,6 +29,8 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 	- [Generating Names with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-generation/char-rnn-generation.ipynb)
 	- [Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 - [Simple Examples to Introduce PyTorch](https://github.com/colesbury/pytorch-examples)
+- [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
+	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
 
 ## Papers in PyTorch
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
@@ -45,6 +47,7 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 - [Wide Residual Networks](https://github.com/szagoruyko/functional-zoo)
 	- Wide ResNet model in PyTorch
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/longcw/faster_rcnn_pytorch)
+- [FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/ClementPinard/FlowNetPytorch)
 
 ## Projects in Pytorch
 - [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
