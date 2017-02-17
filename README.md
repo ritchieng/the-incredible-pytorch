@@ -48,6 +48,8 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 	- Wide ResNet model in PyTorch
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/longcw/faster_rcnn_pytorch)
 - [FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/ClementPinard/FlowNetPytorch)
+- [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
+
 
 ## Projects in Pytorch
 - [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
