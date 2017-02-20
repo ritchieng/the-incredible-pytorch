@@ -73,9 +73,9 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
-- [StackOverFlow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
+- [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
 
 ## Contributions
 Do feel free to contribute! 
 
-You can raise an isssue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point. 
+You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point. 
