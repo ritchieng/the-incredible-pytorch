@@ -68,6 +68,7 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 - [Neuraltalk 2, Image Captioning Model, in PyTorch](https://github.com/ruotianluo/neuraltalk2.pytorch)
+- [Recurrent Neural Networks for Sentiment Analysis (Aspect-Based) on SemEval 2014](https://github.com/vanzytay/pytorch_sentiment_rnn)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
