@@ -1,7 +1,8 @@
-# The Incredible PyTorch
+<p align="center"><img width="40%" src="the_incredible_pytorch.png" /></p>
 
-## What is this?
-This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) repository where this repository would hold tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/).
+--------------------------------------------------------------------------------
+
+This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) repository where this repository would hold tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/).
 
 
 ## Tutorials
