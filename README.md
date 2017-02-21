@@ -69,6 +69,7 @@ This is inspired by the famous [Awesome TensorFlow](https://github.com/jtoy/awes
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 - [Neuraltalk 2, Image Captioning Model, in PyTorch](https://github.com/ruotianluo/neuraltalk2.pytorch)
 - [Recurrent Neural Networks for Sentiment Analysis (Aspect-Based) on SemEval 2014](https://github.com/vanzytay/pytorch_sentiment_rnn)
+- [PyTorch Image Classification with Kaggle Dogs vs Cats Dataset](https://github.com/rdcolema/pytorch-image-classification)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
