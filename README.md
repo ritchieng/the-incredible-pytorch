@@ -51,6 +51,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/ClementPinard/FlowNetPytorch)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/bengxy/FastNeuralStyle)
+- [Highway Networks](https://github.com/c0nn3r/pytorch_highway_networks)
 
 
 ## Projects in Pytorch
