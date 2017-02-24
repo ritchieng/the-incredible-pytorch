@@ -52,10 +52,6 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/bengxy/FastNeuralStyle)
 - [Highway Networks](https://github.com/c0nn3r/pytorch_highway_networks)
-
-
-## Projects in Pytorch
-- [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
 - [Collection of Generative Models with PyTorch](https://github.com/wiseodd/generative-models)
 	- Generative Adversarial Nets (GAN)
 		1. [Vanilla GAN](https://arxiv.org/abs/1406.2661)
@@ -69,10 +65,18 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 		3. [Denoising VAE](https://arxiv.org/abs/1511.06406)
 		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
+
+## Projects in Pytorch
+- [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
+	1. Vanilla Sequence to Sequence models
+	2. Attention based Sequence to Sequence models
+	3. Faster attention mechanisms using dot products between the final encoder and decoder hidden states
+- [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
 - [Neuraltalk 2, Image Captioning Model, in PyTorch](https://github.com/ruotianluo/neuraltalk2.pytorch)
 - [Recurrent Neural Networks for Sentiment Analysis (Aspect-Based) on SemEval 2014](https://github.com/vanzytay/pytorch_sentiment_rnn)
 - [PyTorch Image Classification with Kaggle Dogs vs Cats Dataset](https://github.com/rdcolema/pytorch-image-classification)
 - [CNN Based Text Classification](https://github.com/xiayandi/Pytorch_text_classification)
+
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
