@@ -66,6 +66,8 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 
+- [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
+
 ## Projects in Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
