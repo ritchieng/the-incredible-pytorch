@@ -65,8 +65,8 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 		3. [Denoising VAE](https://arxiv.org/abs/1511.06406)
 		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
-
 - [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
+
 
 ## Projects in Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
@@ -78,12 +78,14 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Recurrent Neural Networks for Sentiment Analysis (Aspect-Based) on SemEval 2014](https://github.com/vanzytay/pytorch_sentiment_rnn)
 - [PyTorch Image Classification with Kaggle Dogs vs Cats Dataset](https://github.com/rdcolema/pytorch-image-classification)
 - [CNN Based Text Classification](https://github.com/xiayandi/Pytorch_text_classification)
+- [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
 
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
+
 
 ## Contributions
 Do feel free to contribute! 
