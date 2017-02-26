@@ -79,6 +79,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [PyTorch Image Classification with Kaggle Dogs vs Cats Dataset](https://github.com/rdcolema/pytorch-image-classification)
 - [CNN Based Text Classification](https://github.com/xiayandi/Pytorch_text_classification)
 - [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
+- [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
 
 
 ## Community
