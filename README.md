@@ -84,6 +84,10 @@ English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
 
 
+## Useful PyTorch Extensions
+- [Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)
+
+
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
