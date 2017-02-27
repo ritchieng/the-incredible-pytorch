@@ -66,6 +66,8 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 - [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
+- [Deep Speech 2: End-to-End Speech Recognition in
+English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 
 
 ## Projects in Pytorch
