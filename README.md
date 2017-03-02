@@ -82,6 +82,7 @@ English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [CNN Based Text Classification](https://github.com/xiayandi/Pytorch_text_classification)
 - [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
 - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
+- [Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
 
 
 ## Useful PyTorch Extensions
