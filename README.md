@@ -45,8 +45,9 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Network In Network](https://github.com/szagoruyko/functional-zoo)
 - [Deep Residual Learning for Image Recognition](https://github.com/szagoruyko/functional-zoo)
 	- ResNet model in PyTorch.
-- [Wide Residual Networks](https://github.com/szagoruyko/functional-zoo)
-	- Wide ResNet model in PyTorch
+- Wide Residual Networks
+	- [Wide ResNet model in PyTorch](https://github.com/szagoruyko/functional-zoo)
+	- [Training Wide ResNets for CIFAR-10 and CIFAR-100 in PyTorch](https://github.com/xternalz/WideResNet-pytorch)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/longcw/faster_rcnn_pytorch)
 - [FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/ClementPinard/FlowNetPytorch)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
