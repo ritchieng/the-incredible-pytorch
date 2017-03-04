@@ -33,7 +33,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
 	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
 
-## Papers in PyTorch
+## Papers Implemented with PyTorch
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://github.com/szagoruyko/attention-transfer)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
@@ -72,7 +72,7 @@ English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [GloVe: Global Vectors for Word Representation - Stanford NLP Group](https://github.com/2014mchidamb/TorchGlove)
 
 
-## Projects in Pytorch
+## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
 	2. Attention based Sequence to Sequence models
