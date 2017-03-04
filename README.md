@@ -85,7 +85,7 @@ English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
 - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
 - [Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
-
+- [CIFAR-10 on Pytorch with VGG, ResNet and DenseNet](https://github.com/kuangliu/pytorch-cifar)
 
 ## Useful PyTorch Extensions
 - [Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)
