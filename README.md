@@ -33,15 +33,18 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
 	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
 
-## Papers Implemented with PyTorch
-- [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
-- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://github.com/szagoruyko/attention-transfer)
+## Papers Originally Implemented with PyTorch
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
+- [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
+- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://github.com/szagoruyko/attention-transfer)
+
+## Papers with Third-Party PyTorch Implementations
+- [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
 - [Densely Connected Convolutional Networks](https://github.com/bamos/densenet.pytorch)
 - [A Neural Algorithm of Artistic Style](https://github.com/alexis-jacq/Pytorch-Tutorials)
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://github.com/jcjohnson/pytorch-vgg)
 	- VGG model in PyTorch.
-- [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://github.com/gsp-27/pytorch_Squeezenet)
+- [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and \<0.5MB model size](https://github.com/gsp-27/pytorch_Squeezenet)
 - [Network In Network](https://github.com/szagoruyko/functional-zoo)
 - [Deep Residual Learning for Image Recognition](https://github.com/szagoruyko/functional-zoo)
 	- ResNet model in PyTorch.
@@ -67,8 +70,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 		4. [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644)
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 - [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
-- [Deep Speech 2: End-to-End Speech Recognition in
-English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
+- [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [GloVe: Global Vectors for Word Representation - Stanford NLP Group](https://github.com/2014mchidamb/TorchGlove)
 
 
