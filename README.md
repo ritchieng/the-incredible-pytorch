@@ -37,6 +37,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://github.com/szagoruyko/attention-transfer)
+- [Wide ResNet model in PyTorch](https://github.com/szagoruyko/functional-zoo)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
@@ -48,9 +49,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Network In Network](https://github.com/szagoruyko/functional-zoo)
 - [Deep Residual Learning for Image Recognition](https://github.com/szagoruyko/functional-zoo)
 	- ResNet model in PyTorch.
-- Wide Residual Networks
-	- [Wide ResNet model in PyTorch](https://github.com/szagoruyko/functional-zoo)
-	- [Training Wide ResNets for CIFAR-10 and CIFAR-100 in PyTorch](https://github.com/xternalz/WideResNet-pytorch)
+- [Training Wide ResNets for CIFAR-10 and CIFAR-100 in PyTorch](https://github.com/xternalz/WideResNet-pytorch)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/longcw/faster_rcnn_pytorch)
 - [FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/ClementPinard/FlowNetPytorch)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
