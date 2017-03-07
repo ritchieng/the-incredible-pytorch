@@ -98,6 +98,8 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
+- [Gloqo](https://www.gloqo.com/)
+	- Add, discover and discuss paper implementations in PyTorch and other frameworks.
 
 
 ## Contributions
