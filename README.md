@@ -90,7 +90,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [CIFAR-10 on Pytorch with VGG, ResNet and DenseNet](https://github.com/kuangliu/pytorch-cifar)
 
 ## Useful PyTorch Extensions
-- [Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)
+- ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
 
 
 ## Community
