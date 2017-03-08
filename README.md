@@ -88,6 +88,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
 - [Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
 - [CIFAR-10 on Pytorch with VGG, ResNet and DenseNet](https://github.com/kuangliu/pytorch-cifar)
+- [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
 
 ## Useful PyTorch Extensions
 - [Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)
