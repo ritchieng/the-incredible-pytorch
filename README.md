@@ -91,7 +91,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
 
 ## Useful PyTorch Extensions
-- [Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)
+- ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
 
 
 ## Community
