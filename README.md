@@ -70,8 +70,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 		5. [Adversarial Variational Bayes](https://arxiv.org/abs/1701.04722)
 - [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
 - [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
-- [GloVe: Global Vectors for Word Representation - Stanford NLP Group](https://github.com/2014mchidamb/TorchGlove)
-- [MatchNet generative model](https://github.com/Atcold/pytorch-MatchNet)
+- [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://github.com/mattmacy/vnet.pytorch)
 
 
 ## Projects Implemented with Pytorch
