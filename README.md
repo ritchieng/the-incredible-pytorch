@@ -32,6 +32,22 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Simple Examples to Introduce PyTorch](https://github.com/colesbury/pytorch-examples)
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
 	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
+- [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+	1. Introduction to Torch's Tensor Library
+	2. Computation Graphs and Automatic Differentiation
+	3. Deep Learning Building Blocks: Affine maps, non-linearities, and objectives
+	4. Optimization and Training
+	5. Creating Network Components in Pytorch
+	  * Example: Logistic Regression Bag-of-Words text classifier
+	6. Word Embeddings: Encoding Lexical Semantics
+	  * Example: N-Gram Language Modeling
+	  * Exercise: Continuous Bag-of-Words for learning word embeddings
+	7. Sequence modeling and Long-Short Term Memory Networks
+	  * Example: An LSTM for Part-of-Speech Tagging
+	  * Exercise: Augmenting the LSTM tagger with character-level features
+	8. Advanced: Making Dynamic Decisions
+	  * Example: Bi-LSTM Conditional Random Field for named-entity recognition
+	  * Exercise: A new loss function
 
 ## Papers Originally Implemented with PyTorch
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
