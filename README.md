@@ -48,6 +48,20 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 	8. Advanced: Making Dynamic Decisions
 	  * Example: Bi-LSTM Conditional Random Field for named-entity recognition
 	  * Exercise: A new loss function
+- [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
+	1. PyTorch Basics
+	2. Linear Regression
+	3. Logistic Regression
+	4. Feedforward Neural Network
+	5. Convolutional Neural Network
+	6. Deep Residual Network
+	7. Recurrent Neural Network
+	8. Bidirectional Recurrent Neural Network
+	9. Language Model (RNNLM)
+	10. Image Captioning (CNN-RNN)
+	11. Generative Adversarial Network
+	12. Deep Q-Network and Q-learning (WIP)
+
 
 ## Papers Originally Implemented with PyTorch
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
