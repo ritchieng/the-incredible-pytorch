@@ -61,6 +61,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 	10. Image Captioning (CNN-RNN)
 	11. Generative Adversarial Network
 	12. Deep Q-Network and Q-learning (WIP)
+- [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
 
 
 ## Papers Originally Implemented with PyTorch
