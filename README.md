@@ -105,6 +105,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://github.com/mattmacy/vnet.pytorch)
 - [Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
+- [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
 
 
 ## Projects Implemented with Pytorch
