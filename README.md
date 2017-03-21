@@ -123,6 +123,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
 - [CIFAR-10 on Pytorch with VGG, ResNet and DenseNet](https://github.com/kuangliu/pytorch-cifar)
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
+- [Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
