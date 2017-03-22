@@ -1,6 +1,11 @@
 <p align="center"><img width="40%" src="the_incredible_pytorch.png" /></p>
 
 --------------------------------------------------------------------------------
+<p align="center">
+	<img src="https://img.shields.io/badge/stars-300+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-40+-blue.svg"/>
+	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/> 
+</p>
 
 This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) repository where this repository would hold tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/).
 
@@ -124,6 +129,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [CIFAR-10 on Pytorch with VGG, ResNet and DenseNet](https://github.com/kuangliu/pytorch-cifar)
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
 - [Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
+- [Simple Generative Adversarial Networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
