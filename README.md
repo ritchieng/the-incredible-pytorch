@@ -130,6 +130,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
 - [Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
 - [Simple Generative Adversarial Networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks)
+- [Fast Neural Style Transfer](https://github.com/darkstar112358/fast-neural-style)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
