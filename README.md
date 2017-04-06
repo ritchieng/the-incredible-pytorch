@@ -114,6 +114,7 @@ This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awe
 - [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://github.com/mattmacy/vnet.pytorch)
 - [Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
 - [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
+- [Convolutional Neural Fabrics](https://github.com/vabh/convolutional-neural-fabrics)
 
 
 ## Projects Implemented with Pytorch
