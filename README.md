@@ -3,12 +3,11 @@
 --------------------------------------------------------------------------------
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-300+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-40+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/> 
 </p>
 
-This is inspired by the helpful [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) repository where this repository would hold tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/).
-
+This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/).
 
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
