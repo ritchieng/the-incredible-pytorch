@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-300+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-400+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/> 
 </p>
@@ -135,6 +135,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Simple Generative Adversarial Networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks)
 - [Fast Neural Style Transfer](https://github.com/darkstar112358/fast-neural-style)
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
+- [Draw like Bob Ross](https://github.com/kendricktan/drawlikebobross)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
