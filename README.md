@@ -78,6 +78,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://github.com/bgshih/crnn)
 - [Scaling the Scattering Transform: Deep Hybrid Networks](https://github.com/edouardoyallon/pyscatwave)
 - [Adversarial Generator-Encoder Network](https://github.com/DmitryUlyanov/AGE)
+- [Conditional Similarity Networks](https://github.com/andreasveit/conditional-similarity-networks)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
