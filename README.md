@@ -116,7 +116,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
 - [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
 - [Convolutional Neural Fabrics](https://github.com/vabh/convolutional-neural-fabrics)
-- [Adversarial Generator-Encoder Networks](https://github.com/DmitryUlyanov/AGE)
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://github.com/dasguptar/treelstm.pytorch)
 
 
 ## Projects Implemented with Pytorch
