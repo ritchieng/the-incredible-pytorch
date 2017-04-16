@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-400+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-500+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-70+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/> 
 </p>
 
@@ -116,6 +116,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
 - [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
 - [Convolutional Neural Fabrics](https://github.com/vabh/convolutional-neural-fabrics)
+- [Adversarial Generator-Encoder Networks](https://github.com/DmitryUlyanov/AGE)
 
 
 ## Projects Implemented with Pytorch
