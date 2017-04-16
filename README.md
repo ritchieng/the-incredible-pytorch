@@ -138,6 +138,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Fast Neural Style Transfer](https://github.com/darkstar112358/fast-neural-style)
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 - [Draw like Bob Ross](https://github.com/kendricktan/drawlikebobross)
+- [Reinforcement learning models using Gym and Pytorch](https://github.com/jingweiz/pytorch-rl)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
