@@ -117,7 +117,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
 - [Convolutional Neural Fabrics](https://github.com/vabh/convolutional-neural-fabrics)
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://github.com/dasguptar/treelstm.pytorch)
-
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/fxia22/pointnet.pytorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
@@ -143,7 +143,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
-
+- [Spatial transformer implemented in PyTorch](https://github.com/fxia22/stn.pytorch)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
