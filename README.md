@@ -119,6 +119,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://github.com/dasguptar/treelstm.pytorch)
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/fxia22/pointnet.pytorch)
 - [Deformable Convolutional Network](https://github.com/oeway/pytorch-deform-conv)
+- [Continuous Deep Q-Learning with Model-based Acceleration](https://github.com/ikostrikov/pytorch-naf)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
