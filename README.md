@@ -79,6 +79,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Scaling the Scattering Transform: Deep Hybrid Networks](https://github.com/edouardoyallon/pyscatwave)
 - [Adversarial Generator-Encoder Network](https://github.com/DmitryUlyanov/AGE)
 - [Conditional Similarity Networks](https://github.com/andreasveit/conditional-similarity-networks)
+- [Multi-style Generative Network for Real-time Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
