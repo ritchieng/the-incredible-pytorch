@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-500+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-70+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-600+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-80+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/> 
 </p>
 
@@ -122,6 +122,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deformable Convolutional Network](https://github.com/oeway/pytorch-deform-conv)
 - [Continuous Deep Q-Learning with Model-based Acceleration](https://github.com/ikostrikov/pytorch-naf)
 - [Hierarchical Attention Networks for Document Classification](https://github.com/EdGENetworks/attention-networks-for-classification)
+- [Spatial Transformer Networks](https://github.com/fxia22/stn.pytorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
