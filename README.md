@@ -145,6 +145,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Draw like Bob Ross](https://github.com/kendricktan/drawlikebobross)
 - [Reinforcement learning models using Gym and Pytorch](https://github.com/jingweiz/pytorch-rl)
 - [Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py)
+- [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
