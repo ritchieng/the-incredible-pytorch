@@ -148,6 +148,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py)
 - [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 - [Adversarial Auto-encoders](https://github.com/fducau/AAE_pytorch)
+- [Whale Detector](https://github.com/TarinZ/whale-detector)
 
 ## Useful PyTorch Extensions
 - ~~[Weight initialization schemes for PyTorch nn.Modules](https://github.com/alykhantejani/nninit)~~ Added to PyTorch [main branch](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
