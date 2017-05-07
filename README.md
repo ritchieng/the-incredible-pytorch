@@ -4,7 +4,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-600+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-80+-blue.svg"/>
-	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/> 
+	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/).
@@ -80,6 +80,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Adversarial Generator-Encoder Network](https://github.com/DmitryUlyanov/AGE)
 - [Conditional Similarity Networks](https://github.com/andreasveit/conditional-similarity-networks)
 - [Multi-style Generative Network for Real-time Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
+- [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
@@ -164,6 +166,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 
 ## Contributions
-Do feel free to contribute! 
+Do feel free to contribute!
 
-You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point. 
+You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point.
