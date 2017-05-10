@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-600+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-80+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-700+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-100+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
@@ -152,6 +152,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 - [Adversarial Auto-encoders](https://github.com/fducau/AAE_pytorch)
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
+- [Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)](https://github.com/aaron-xichen/pytorch-playground)
 
 ## Useful PyTorch Extensions
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
