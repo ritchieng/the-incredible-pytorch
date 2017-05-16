@@ -155,6 +155,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Adversarial Auto-encoders](https://github.com/fducau/AAE_pytorch)
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 - [Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)](https://github.com/aaron-xichen/pytorch-playground)
+- [Open Source Chatbot with PyTorch](https://github.com/jinfagang/pytorch_chatbot)
 
 ## Useful PyTorch Extensions
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
