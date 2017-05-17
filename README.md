@@ -128,6 +128,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Spatial Transformer Networks](https://github.com/fxia22/stn.pytorch)
 - [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/andrewliao11/dni.pytorch)
 - [Improved Training of Wasserstein GANs](https://github.com/caogang/wgan-gp)
+- [CycleGAN and Semi-Supervised GAN](https://github.com/yunjey/mnist-svhn-transfer)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
