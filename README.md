@@ -159,10 +159,11 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Open Source Chatbot with PyTorch](https://github.com/jinfagang/pytorch_chatbot)
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
 
-## Useful PyTorch Extensions
+## Useful PyTorch Tools
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
 - [Weight Initializations](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
 - [Spatial transformer implemented in PyTorch](https://github.com/fxia22/stn.pytorch)
+- [PyTorch AWS AMI, run PyTorch with GPU support in less than 5 minutes](https://github.com/ritchieng/dlami)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
