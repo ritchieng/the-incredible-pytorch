@@ -83,6 +83,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
+- [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://github.com/stormraiser/GAN-weight-norm)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
