@@ -85,6 +85,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
 - [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](https://github.com/stormraiser/GAN-weight-norm)
 - [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://github.com/eladhoffer/bigBatch)
+- [Neural Message Passing for Quantum Chemistry](https://github.com/priba/nmp_qc)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
