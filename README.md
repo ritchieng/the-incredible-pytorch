@@ -134,6 +134,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [CycleGAN and Semi-Supervised GAN](https://github.com/yunjey/mnist-svhn-transfer)
 - [Automatic chemical design using a data-driven continuous representation of molecules](https://github.com/cxhernandez/molencoder)
 - [Differentiable Neural Computer](https://github.com/jingweiz/pytorch-dnc)
+- [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
