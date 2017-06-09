@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-800+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-900+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-100+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
@@ -137,6 +137,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Differentiable Neural Computer](https://github.com/jingweiz/pytorch-dnc)
 - [Asynchronous Methods for Deep Reinforcement Learning for Atari 2600](https://github.com/dgriff777/rl_a3c_pytorch)
 - [Trust Region Policy Optimization](https://github.com/mjacar/pytorch-trpo)
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/jacobgil/pytorch-grad-cam)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
