@@ -170,6 +170,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)](https://github.com/aaron-xichen/pytorch-playground)
 - [Open Source Chatbot with PyTorch](https://github.com/jinfagang/pytorch_chatbot)
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
+- [OpenFace in PyTorch](https://github.com/thnkim/OpenFacePytorch)
 
 ## Useful PyTorch Tools
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
