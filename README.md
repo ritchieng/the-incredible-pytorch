@@ -90,6 +90,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://github.com/facebookresearch/end-to-end-negotiator)
 - [Visual Question Answering in Pytorch](https://github.com/Cadene/vqa.pytorch)
 - [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
+- [Attention is you need](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
