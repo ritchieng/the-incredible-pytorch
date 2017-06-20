@@ -142,6 +142,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Trust Region Policy Optimization](https://github.com/mjacar/pytorch-trpo)
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/jacobgil/pytorch-grad-cam)
 - [Improving Variational Auto-Encoders using Householder Flow and using convex combination linear Inverse Autoregressive Flow](https://github.com/jmtomczak/vae_vpflows)
+- [SSD: Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch)
+
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
