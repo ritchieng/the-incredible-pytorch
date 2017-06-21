@@ -144,6 +144,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/jacobgil/pytorch-grad-cam)
 - [Improving Variational Auto-Encoders using Householder Flow and using convex combination linear Inverse Autoregressive Flow](https://github.com/jmtomczak/vae_vpflows)
 - [SSD: Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch)
+- [Neural Combinatorial Optimization with Reinforcement Learning](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
