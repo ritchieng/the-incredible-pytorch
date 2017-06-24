@@ -175,6 +175,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Open Source Chatbot with PyTorch](https://github.com/jinfagang/pytorch_chatbot)
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
 - [OpenFace in PyTorch](https://github.com/thnkim/OpenFacePytorch)
+- [Complete Suite for Training Seq2Seq Models in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 
 ## Useful PyTorch Tools
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
