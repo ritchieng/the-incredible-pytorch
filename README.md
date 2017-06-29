@@ -180,7 +180,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Complete Suite for Training Seq2Seq Models in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 
 ## PyTorch Video Tutorials
-- [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/)
+- [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
 
 ## Useful PyTorch Tools
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
