@@ -179,6 +179,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [OpenFace in PyTorch](https://github.com/thnkim/OpenFacePytorch)
 - [Complete Suite for Training Seq2Seq Models in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 
+## PyTorch Video Tutorials
+- [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/)
+
 ## Useful PyTorch Tools
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
 - [Weight Initializations](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
