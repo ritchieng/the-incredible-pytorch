@@ -189,7 +189,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Weight Initializations](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
 - [Spatial transformer implemented in PyTorch](https://github.com/fxia22/stn.pytorch)
 - [PyTorch AWS AMI, run PyTorch with GPU support in less than 5 minutes](https://github.com/ritchieng/dlami)
-
+- [Use tensorboard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
