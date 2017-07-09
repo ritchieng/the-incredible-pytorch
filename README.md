@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-900+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-1000+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-100+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
@@ -92,6 +92,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
 - [Attention is all you need](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 - [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://github.com/ajbrock/FreezeOut)
+- [CortexNet: a Generic Network Family for Robust Visual Temporal Representations](https://github.com/e-lab/pytorch-CortexNet)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
