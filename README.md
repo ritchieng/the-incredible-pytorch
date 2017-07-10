@@ -34,7 +34,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [Generating Shakespeare with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-generation/char-rnn-generation.ipynb)
 	- [Generating Names with a Conditional Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/conditional-char-rnn/conditional-char-rnn.ipynb)
 	- [Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
-- [Simple Examples to Introduce PyTorch](https://github.com/colesbury/pytorch-examples)
+- [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
 	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
 - [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
