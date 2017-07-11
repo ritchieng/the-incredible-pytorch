@@ -149,6 +149,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Neural Combinatorial Optimization with Reinforcement Learning](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
 - [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://github.com/jacobgil/pytorch-pruning)
 - [A Neural Representation of Sketch Drawings](https://github.com/alexis-jacq/Pytorch-Sketch-RNN)
+- [Convolutional LSTM Network](https://github.com/automan000/Convolution_LSTM_pytorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
