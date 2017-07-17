@@ -151,6 +151,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [A Neural Representation of Sketch Drawings](https://github.com/alexis-jacq/Pytorch-Sketch-RNN)
 - [Convolutional LSTM Network](https://github.com/automan000/Convolution_LSTM_pytorch)
 - [Noisy Networks for Exploration](https://github.com/Kaixhin/NoisyNet-A3C)
+- [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://github.com/potterhsu/SVHNClassifier-PyTorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
