@@ -93,6 +93,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Attention is all you need](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 - [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://github.com/ajbrock/FreezeOut)
 - [CortexNet: a Generic Network Family for Robust Visual Temporal Representations](https://github.com/e-lab/pytorch-CortexNet)
+- [VSE++: Improved Visual-Semantic Embeddings](https://github.com/fartashf/vsepp)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
