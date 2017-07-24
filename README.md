@@ -153,6 +153,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Convolutional LSTM Network](https://github.com/automan000/Convolution_LSTM_pytorch)
 - [Noisy Networks for Exploration](https://github.com/Kaixhin/NoisyNet-A3C)
 - [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://github.com/potterhsu/SVHNClassifier-PyTorch)
+- [Distributed Proximal Policy Optimization](https://github.com/alexis-jacq/Pytorch-DPPO)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
