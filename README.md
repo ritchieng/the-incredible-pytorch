@@ -96,6 +96,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [VSE++: Improved Visual-Semantic Embeddings](https://github.com/fartashf/vsepp)
 - [Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 - [A Structured Self-Attentive Sentence Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
+- [Efficient Densenet](https://github.com/gpleiss/efficient_densenet_pytorch)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
