@@ -98,6 +98,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [A Structured Self-Attentive Sentence Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
 - [Efficient Densenet](https://github.com/gpleiss/efficient_densenet_pytorch)
 - [Averaged Stochastic Gradient Descent with Weight Dropped LSTM](https://github.com/salesforce/awd-lstm-lm)
+- [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
