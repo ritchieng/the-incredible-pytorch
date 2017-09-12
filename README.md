@@ -161,6 +161,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Distributed Proximal Policy Optimization](https://github.com/alexis-jacq/Pytorch-DPPO)
 - [Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch)
 - [Deformable Convolutional Networks in PyTorch](https://github.com/1zb/deformable-convolution-pytorch)
+- [Dilated ResNet combination with Dilated Convolutions](https://github.com/fyu/drn)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
