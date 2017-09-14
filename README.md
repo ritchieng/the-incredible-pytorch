@@ -208,7 +208,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Use tensorboard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
 - [Simple Fit Module in PyTorch, similar to Keras](https://github.com/henryre/pytorch-fitmodule)
 
-##Community
+## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
