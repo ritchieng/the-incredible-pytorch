@@ -164,6 +164,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deformable Convolutional Networks in PyTorch](https://github.com/1zb/deformable-convolution-pytorch)
 - [Dilated ResNet combination with Dilated Convolutions](https://github.com/fyu/drn)
 - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://github.com/DSKSD/RNN-for-Joint-NLU)
+- [Attentive Recurrent Comparators](https://github.com/sanyam5/arc-pytorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
