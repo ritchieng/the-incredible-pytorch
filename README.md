@@ -100,6 +100,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Averaged Stochastic Gradient Descent with Weight Dropped LSTM](https://github.com/salesforce/awd-lstm-lm)
 - [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
 - [Video Frame Interpolation via Adaptive Separable Convolution](https://github.com/sniklaus/pytorch-sepconv)
+- [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/edgarriba/examples/tree/master/triplet)
+- [Training RNNs as Fast as CNNs](https://github.com/taolei87/sru)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
