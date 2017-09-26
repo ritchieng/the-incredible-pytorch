@@ -100,6 +100,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Averaged Stochastic Gradient Descent with Weight Dropped LSTM](https://github.com/salesforce/awd-lstm-lm)
 - [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
 - [Video Frame Interpolation via Adaptive Separable Convolution](https://github.com/sniklaus/pytorch-sepconv)
+- [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/edgarriba/examples/tree/master/triplet)
+- [Training RNNs as Fast as CNNs](https://github.com/taolei87/sru)
 - [How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)](https://github.com/1adrianb/face-alignment)
 
 ## Papers with Third-Party PyTorch Implementations
@@ -165,6 +167,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deformable Convolutional Networks in PyTorch](https://github.com/1zb/deformable-convolution-pytorch)
 - [Dilated ResNet combination with Dilated Convolutions](https://github.com/fyu/drn)
 - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://github.com/DSKSD/RNN-for-Joint-NLU)
+- [Attentive Recurrent Comparators](https://github.com/sanyam5/arc-pytorch)
+- [PyTorch GAN Collection](https://github.com/znxlwm/pytorch-generative-model-collections)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
