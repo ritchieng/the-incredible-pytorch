@@ -105,6 +105,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)](https://github.com/1adrianb/face-alignment)
 - [Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://github.com/kenshohara/3D-ResNets-PyTorch)
 - [Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback](https://github.com/khanhptnk/bandit-nmt)
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://github.com/clcarwin/sphereface_pytorch)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
