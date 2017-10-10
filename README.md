@@ -67,6 +67,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	11. Generative Adversarial Network
 	12. Deep Q-Network and Q-learning (WIP)
 - [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
+- [12 Micro Lecture Slides for PyTorch Crash Course, Zero to All](bit.ly/PyTorchZeroAll)
 
 
 ## Papers Originally Implemented with PyTorch
