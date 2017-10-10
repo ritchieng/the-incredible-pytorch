@@ -106,6 +106,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://github.com/kenshohara/3D-ResNets-PyTorch)
 - [Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback](https://github.com/khanhptnk/bandit-nmt)
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://github.com/clcarwin/sphereface_pytorch)
+- [Quasi-Recurrent Neural Network (QRNN)](https://github.com/salesforce/pytorch-qrnn)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
