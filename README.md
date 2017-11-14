@@ -68,7 +68,17 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	12. Deep Q-Network and Q-learning (WIP)
 - [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
 - [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
-
+- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+	1. Skip-gram-Naive-Softmax
+	2. Skip-gram-Negative-Sampling
+	3. GloVe
+	4. Window-Classifier-for-NER
+	5. Neural-Dependancy-Parser
+	6. RNN-Language-Model
+	7. Neural-Machine-Translation-with-Attention
+	8. CNN-for-Text-Classification
+	9. Recursive-NN-for-Sentiment-Classification
+	10. Dynamic-Memory-Network-for-Question-Answering
 
 ## Papers Originally Implemented with PyTorch
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
