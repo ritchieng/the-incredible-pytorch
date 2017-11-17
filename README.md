@@ -68,6 +68,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	12. Deep Q-Network and Q-learning (WIP)
 - [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
 - [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
+- [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 
 
 ## Papers Originally Implemented with PyTorch
@@ -110,6 +111,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Quasi-Recurrent Neural Network (QRNN)](https://github.com/salesforce/pytorch-qrnn)
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/thstkdgus35/EDSR-PyTorch)
 - [Unsupervised Learning of Depth and Ego-Motion from Video](https://github.com/ClementPinard/SfmLearner-Pytorch)
+- [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
@@ -176,6 +178,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://github.com/DSKSD/RNN-for-Joint-NLU)
 - [Attentive Recurrent Comparators](https://github.com/sanyam5/arc-pytorch)
 - [PyTorch GAN Collection](https://github.com/znxlwm/pytorch-generative-model-collections)
+- [Compact Bilinear Pooling](https://github.com/DeepInsight-PCALab/CompactBilinearPooling-Pytorch)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
