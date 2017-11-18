@@ -180,6 +180,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch GAN Collection](https://github.com/znxlwm/pytorch-generative-model-collections)
 - [Compact Bilinear Pooling](https://github.com/DeepInsight-PCALab/CompactBilinearPooling-Pytorch)
 - [Striving for Simplicity: The All Convolutional Net](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+- [Learning Deep Features for Discriminative Localization](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+
 
 
 ## Projects Implemented with Pytorch
