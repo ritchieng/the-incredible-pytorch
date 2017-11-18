@@ -179,6 +179,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Attentive Recurrent Comparators](https://github.com/sanyam5/arc-pytorch)
 - [PyTorch GAN Collection](https://github.com/znxlwm/pytorch-generative-model-collections)
 - [Compact Bilinear Pooling](https://github.com/DeepInsight-PCALab/CompactBilinearPooling-Pytorch)
+- [Striving for Simplicity: The All Convolutional Net](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
