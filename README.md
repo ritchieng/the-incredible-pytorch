@@ -180,7 +180,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch GAN Collection](https://github.com/znxlwm/pytorch-generative-model-collections)
 - [Compact Bilinear Pooling](https://github.com/DeepInsight-PCALab/CompactBilinearPooling-Pytorch)
 - [Striving for Simplicity: The All Convolutional Net](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
-- [Deep Inside Convolutional Networks: Visualisng Image Classification Models and Saliency Maps](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+- [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization - 2](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
