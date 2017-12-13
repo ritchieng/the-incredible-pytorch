@@ -82,6 +82,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 
 ## Papers Originally Implemented with PyTorch
+- [Faster Faster R-CNN Implementation](https://github.com/jwyang/faster-rcnn.pytorch)
+- [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://github.com/mapillary/inplace_abn)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://github.com/szagoruyko/attention-transfer)
@@ -123,6 +125,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
+- [mixup: Beyond Empirical Risk Minimization](https://github.com/leehomyc/mixup_pytorch)
 - [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://github.com/xingyizhou/pytorch-pose-hg-3d)
 - [Hierarchical Attention Network for Document Classification](https://github.com/cedias/HAN-pytorch)
 - [Unsupervised Learning of Depth and Ego-Motion from Video](https://github.com/ClementPinard/SfmLearner-Pytorch)
