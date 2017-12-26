@@ -125,6 +125,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Binary Stochastic Neurons](https://github.com/Wizaron/binary-stochastic-neurons)
+- [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://github.com/Wizaron/reseg-pytorch)
 - [mixup: Beyond Empirical Risk Minimization](https://github.com/leehomyc/mixup_pytorch)
 - [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://github.com/xingyizhou/pytorch-pose-hg-3d)
 - [Hierarchical Attention Network for Document Classification](https://github.com/cedias/HAN-pytorch)
