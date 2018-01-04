@@ -206,7 +206,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Skip-Thought Vectors](https://github.com/sanyam5/skip-thoughts)
  - [Explaining and Harnessing Adversarial Examples](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
 
-
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
