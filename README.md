@@ -199,11 +199,12 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Compact Bilinear Pooling](https://github.com/DeepInsight-PCALab/CompactBilinearPooling-Pytorch)
 - [Striving for Simplicity: The All Convolutional Net](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
-- [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+- [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
  - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization - 2](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://github.com/NVIDIA/flownet2-pytorch)
  - [Optical Flow Estimation using a Spatial Pyramid Network](https://github.com/sniklaus/pytorch-spynet)
  - [Skip-Thought Vectors](https://github.com/sanyam5/skip-thoughts)
+ - [Explaining and Harnessing Adversarial Examples](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
