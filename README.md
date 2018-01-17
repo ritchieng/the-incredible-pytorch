@@ -205,6 +205,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Optical Flow Estimation using a Spatial Pyramid Network](https://github.com/sniklaus/pytorch-spynet)
  - [Skip-Thought Vectors](https://github.com/sanyam5/skip-thoughts)
  - [Explaining and Harnessing Adversarial Examples](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
+ - [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+ 
+ 
 
 ## Projects Implemented with Pytorch
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
