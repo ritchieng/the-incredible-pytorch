@@ -126,6 +126,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Improved Training of Wasserstein GANs](https://github.com/jalola/improved-wgan-pytorch)
 - [Binary Stochastic Neurons](https://github.com/Wizaron/binary-stochastic-neurons)
 - [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://github.com/Wizaron/reseg-pytorch)
 - [mixup: Beyond Empirical Risk Minimization](https://github.com/leehomyc/mixup_pytorch)
@@ -208,6 +209,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  
 ## Projects Implemented with Pytorch
+- [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
 	2. Attention based Sequence to Sequence models
