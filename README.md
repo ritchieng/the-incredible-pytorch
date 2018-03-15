@@ -207,7 +207,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Skip-Thought Vectors](https://github.com/sanyam5/skip-thoughts)
  - [Explaining and Harnessing Adversarial Examples](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
  - [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
- 
+ - [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
+
 ## Projects Implemented with Pytorch
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
