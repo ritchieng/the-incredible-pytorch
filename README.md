@@ -82,7 +82,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 
 ## Papers Originally Implemented with PyTorch
-- [https://github.com/DavexPro/pytorch-pose-estimation](https://github.com/DavexPro/pytorch-pose-estimation)
+- [PyTorch Realtime Multi-Person Pose Estimation](https://github.com/DavexPro/pytorch-pose-estimation)
 - [Faster Faster R-CNN Implementation](https://github.com/jwyang/faster-rcnn.pytorch)
 - [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://github.com/mapillary/inplace_abn)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
