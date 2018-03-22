@@ -248,6 +248,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
 - [PyTorch Zero to All Lectures (Free)](http://bit.ly/PyTorchVideo)
+
 ## Useful PyTorch Tools
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
 - [Weight Initializations](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
@@ -258,11 +259,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
-	- This is actively maintained by [Adam Paszke](https://github.com/apaszke)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
-- [Gloqo](https://www.gloqo.com/)
-	- Add, discover and discuss paper implementations in PyTorch and other frameworks.
-
 
 ## Contributions
 Do feel free to contribute!
