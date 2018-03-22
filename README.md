@@ -126,6 +126,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Neural Sequence labeling model](https://github.com/jiesutd/PyTorchSeqLabel)
 - [Improved Training of Wasserstein GANs](https://github.com/jalola/improved-wgan-pytorch)
 - [Binary Stochastic Neurons](https://github.com/Wizaron/binary-stochastic-neurons)
 - [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://github.com/Wizaron/reseg-pytorch)
