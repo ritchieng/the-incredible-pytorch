@@ -127,6 +127,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
 - [Neural Sequence labeling model](https://github.com/jiesutd/PyTorchSeqLabel)
 - [Improved Training of Wasserstein GANs](https://github.com/jalola/improved-wgan-pytorch)
 - [Binary Stochastic Neurons](https://github.com/Wizaron/binary-stochastic-neurons)
