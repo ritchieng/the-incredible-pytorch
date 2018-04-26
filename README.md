@@ -125,6 +125,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Quasi-Recurrent Neural Network (QRNN)](https://github.com/salesforce/pytorch-qrnn)
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/thstkdgus35/EDSR-PyTorch)
 - [DiracNets](https://github.com/szagoruyko/diracnets)
+- [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://github.com/emited/flow)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
