@@ -211,6 +211,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Explaining and Harnessing Adversarial Examples](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
  - [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  - [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
+ - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
 ## Projects Implemented with Pytorch
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
