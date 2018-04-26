@@ -127,6 +127,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DiracNets](https://github.com/szagoruyko/diracnets)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
 - [Neural Sequence labeling model](https://github.com/jiesutd/PyTorchSeqLabel)
 - [Improved Training of Wasserstein GANs](https://github.com/jalola/improved-wgan-pytorch)
 - [Binary Stochastic Neurons](https://github.com/Wizaron/binary-stochastic-neurons)
@@ -211,6 +212,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  - [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
  - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
+ - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
 ## Projects Implemented with Pytorch
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
