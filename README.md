@@ -214,6 +214,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
  - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
  - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+ - [Interpretable Counting for Visual Question Answering](https://github.com/sanyam5/irlc-vqa)
 
 ## Projects Implemented with Pytorch
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
