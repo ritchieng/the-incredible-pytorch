@@ -250,6 +250,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
 - [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
 - [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
+- [SLM-Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://github.com/kengz/SLM-Lab)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
