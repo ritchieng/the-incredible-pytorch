@@ -268,6 +268,10 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
 
+## Links to This Repository
+[Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
+[Website](https://www.ritchieng.com/the-incredible-pytorch/)
+
 ## Contributions
 Do feel free to contribute!
 
