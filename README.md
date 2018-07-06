@@ -273,7 +273,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Website](https://www.ritchieng.com/the-incredible-pytorch/)
 
 ## Sister Repository
-- [The Incredible Ubuntu])https://github.com/ritchieng/the-incredible-ubuntu)
+- [The Incredible Ubuntu](https://github.com/ritchieng/the-incredible-ubuntu)
 	- I created this as it helped me to navigate through some quirks of Ubuntu and also made my life easier with easy copy-paste bash commands.
 
 ## Contributions
