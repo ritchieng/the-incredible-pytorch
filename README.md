@@ -28,6 +28,13 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- Hogwild training of shared ConvNets across multiple processes on MNIST
 	- Training a CartPole to balance in OpenAI Gym with actor-critic
 	- Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext
+- [PyTorch-Project-Template](https://github.com/moemen95/PyTorch-Project-Template)
+	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
+	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
+	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
+	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
+	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
+	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 - [Practical PyTorch](https://github.com/spro/practical-pytorch)
 	- This focuses on using RNNs for NLP
 	- [Classifying Names with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-classification/char-rnn-classification.ipynb)
