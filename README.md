@@ -271,6 +271,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch AWS AMI, run PyTorch with GPU support in less than 5 minutes](https://github.com/ritchieng/dlami)
 - [Use tensorboard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
 - [Simple Fit Module in PyTorch, similar to Keras](https://github.com/henryre/pytorch-fitmodule)
+- [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
