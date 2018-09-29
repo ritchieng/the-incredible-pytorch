@@ -89,6 +89,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 
 ## Papers Originally Implemented with PyTorch
+- [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
+- [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
 - [Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks ](https://github.com/xternalz/SDPoint)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
 - [PyTorch Realtime Multi-Person Pose Estimation](https://github.com/DavexPro/pytorch-pose-estimation)
