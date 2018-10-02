@@ -125,6 +125,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Quasi-Recurrent Neural Network (QRNN)](https://github.com/salesforce/pytorch-qrnn)
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/thstkdgus35/EDSR-PyTorch)
 - [DiracNets](https://github.com/szagoruyko/diracnets)
+- [pytorch-CycleGAN-and-pix2pixpytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [OpenNMT](https://github.com/OpenNMT/OpenNMT-py)
+- [Superresolution using an efficient sub-pixel convolutional neural network](https://github.com/pytorch/examples/tree/master/super_resolution)
 
 ## Papers with Third-Party PyTorch Implementations
 - [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
