@@ -273,6 +273,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch Zero to All Lectures (Free)](http://bit.ly/PyTorchVideo)
 
 ## Useful PyTorch Tools
+- [Torchstat for Statistics on PyTorch Models](https://github.com/Swall0w/torchstat)
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
 - [Weight Initializations](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
 - [Spatial transformer implemented in PyTorch](https://github.com/fxia22/stn.pytorch)
