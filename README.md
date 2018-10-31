@@ -232,6 +232,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Interpretable Counting for Visual Question Answering](https://github.com/sanyam5/irlc-vqa)
 
 ## Projects Implemented with Pytorch
+- [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
