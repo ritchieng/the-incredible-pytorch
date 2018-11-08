@@ -11,13 +11,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
-	1. [Deep Learning with PyTorch: a 60-minute blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-		- A perfect introduction to PyTorch's torch, autograd, nn and optim APIs
-   		- If you are a former Torch user, you can check out this instead: [Introduction to PyTorch for former Torchies](http://pytorch.org/tutorials/beginner/former_torchies_tutorial.html)
-	2. Custom C extensions
-   		- [Write your own C code that interfaces into PyTorch via FFI](http://pytorch.org/tutorials/advanced/c_extension.html)
-	3. [Writing your own neural network module that uses numpy and scipy](http://pytorch.org/tutorials/advanced/numpy_extensions_tutorial.html)
-	4. [Reinforcement (Q-)Learning with PyTorch](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
 	- MNIST Convnets
 	- Word level Language Modeling using LSTM RNNs
@@ -28,6 +21,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- Hogwild training of shared ConvNets across multiple processes on MNIST
 	- Training a CartPole to balance in OpenAI Gym with actor-critic
 	- Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext
+- [Practical Deep Learning with PyTorch by Deep Learning Wizard (Ritchie Ng)](https://github.com/ritchieng/deep-learning-wizard)
 - [PyTorch-Project-Template](https://github.com/moemen95/PyTorch-Project-Template)
 	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
 	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
