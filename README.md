@@ -12,75 +12,23 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
-	- MNIST Convnets
-	- Word level Language Modeling using LSTM RNNs
-	- Training Imagenet Classifiers with Residual Networks
-	- Generative Adversarial Networks (DCGAN)
-	- Variational Auto-Encoders
-	- Superresolution using an efficient sub-pixel convolutional neural network
-	- Hogwild training of shared ConvNets across multiple processes on MNIST
-	- Training a CartPole to balance in OpenAI Gym with actor-critic
-	- Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext
 - [Practical Deep Learning with PyTorch by Deep Learning Wizard (Ritchie Ng)](https://github.com/ritchieng/deep-learning-wizard)
-- [PyTorch-Project-Template](https://github.com/moemen95/PyTorch-Project-Template)
+- [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
+- [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
+- [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+- [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
+- [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
+- [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
+- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+- [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
+- [Practical PyTorch](https://github.com/spro/practical-pytorch)
+- [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
 	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
 	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
 	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
 	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
 	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
-- [Practical PyTorch](https://github.com/spro/practical-pytorch)
-	- This focuses on using RNNs for NLP
-	- [Classifying Names with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-classification/char-rnn-classification.ipynb)
-	- [Generating Shakespeare with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-generation/char-rnn-generation.ipynb)
-	- [Generating Names with a Conditional Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/conditional-char-rnn/conditional-char-rnn.ipynb)
-	- [Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
-- [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
-- [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
-	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
-- [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
-	1. Introduction to Torch's Tensor Library
-	2. Computation Graphs and Automatic Differentiation
-	3. Deep Learning Building Blocks: Affine maps, non-linearities, and objectives
-	4. Optimization and Training
-	5. Creating Network Components in Pytorch
-	  * Example: Logistic Regression Bag-of-Words text classifier
-	6. Word Embeddings: Encoding Lexical Semantics
-	  * Example: N-Gram Language Modeling
-	  * Exercise: Continuous Bag-of-Words for learning word embeddings
-	7. Sequence modeling and Long-Short Term Memory Networks
-	  * Example: An LSTM for Part-of-Speech Tagging
-	  * Exercise: Augmenting the LSTM tagger with character-level features
-	8. Advanced: Making Dynamic Decisions
-	  * Example: Bi-LSTM Conditional Random Field for named-entity recognition
-	  * Exercise: A new loss function
-- [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
-	1. PyTorch Basics
-	2. Linear Regression
-	3. Logistic Regression
-	4. Feedforward Neural Network
-	5. Convolutional Neural Network
-	6. Deep Residual Network
-	7. Recurrent Neural Network
-	8. Bidirectional Recurrent Neural Network
-	9. Language Model (RNNLM)
-	10. Image Captioning (CNN-RNN)
-	11. Generative Adversarial Network
-	12. Deep Q-Network and Q-learning (WIP)
-- [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
-- [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
-- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
-	1. Skip-gram-Naive-Softmax
-	2. Skip-gram-Negative-Sampling
-	3. GloVe
-	4. Window-Classifier-for-NER
-	5. Neural-Dependancy-Parser
-	6. RNN-Language-Model
-	7. Neural-Machine-Translation-with-Attention
-	8. CNN-for-Text-Classification
-	9. Recursive-NN-for-Sentiment-Classification
-	10. Dynamic-Memory-Network-for-Question-Answering
-- [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 
 ## Papers Originally Implemented with PyTorch
 - [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
