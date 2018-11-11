@@ -31,6 +31,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 
 ## Papers Originally Implemented with PyTorch
+- [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)
+- [BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
 - [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
 - [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
 - [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
@@ -85,6 +87,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral)](https://github.com/albertpumarola/GANimation)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Clarinet](https://github.com/ksw0306/ClariNet)
 - [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
 - [Neural Sequence labeling model](https://github.com/jiesutd/PyTorchSeqLabel)
 - [Improved Training of Wasserstein GANs](https://github.com/jalola/improved-wgan-pytorch)
