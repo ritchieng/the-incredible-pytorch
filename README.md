@@ -11,84 +11,31 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
-	1. [Deep Learning with PyTorch: a 60-minute blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-		- A perfect introduction to PyTorch's torch, autograd, nn and optim APIs
-   		- If you are a former Torch user, you can check out this instead: [Introduction to PyTorch for former Torchies](http://pytorch.org/tutorials/beginner/former_torchies_tutorial.html)
-	2. Custom C extensions
-   		- [Write your own C code that interfaces into PyTorch via FFI](http://pytorch.org/tutorials/advanced/c_extension.html)
-	3. [Writing your own neural network module that uses numpy and scipy](http://pytorch.org/tutorials/advanced/numpy_extensions_tutorial.html)
-	4. [Reinforcement (Q-)Learning with PyTorch](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
-	- MNIST Convnets
-	- Word level Language Modeling using LSTM RNNs
-	- Training Imagenet Classifiers with Residual Networks
-	- Generative Adversarial Networks (DCGAN)
-	- Variational Auto-Encoders
-	- Superresolution using an efficient sub-pixel convolutional neural network
-	- Hogwild training of shared ConvNets across multiple processes on MNIST
-	- Training a CartPole to balance in OpenAI Gym with actor-critic
-	- Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext
-- [PyTorch-Project-Template](https://github.com/moemen95/PyTorch-Project-Template)
+- [Practical Deep Learning with PyTorch by Deep Learning Wizard (Ritchie Ng)](https://github.com/ritchieng/deep-learning-wizard)
+- [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
+- [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
+- [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+- [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
+- [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
+- [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
+- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+- [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
+- [Practical PyTorch](https://github.com/spro/practical-pytorch)
+- [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
 	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
 	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
 	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
 	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
 	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
-- [Practical PyTorch](https://github.com/spro/practical-pytorch)
-	- This focuses on using RNNs for NLP
-	- [Classifying Names with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-classification/char-rnn-classification.ipynb)
-	- [Generating Shakespeare with a Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/char-rnn-generation/char-rnn-generation.ipynb)
-	- [Generating Names with a Conditional Character-Level RNN](https://github.com/spro/practical-pytorch/blob/master/conditional-char-rnn/conditional-char-rnn.ipynb)
-	- [Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
-- [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
-- [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
-	- Tensor Multiplication, Linear Regresison, Logistic Regression, Neural Network, Modern Neural Network, and Convolutional Neural Network
-- [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
-	1. Introduction to Torch's Tensor Library
-	2. Computation Graphs and Automatic Differentiation
-	3. Deep Learning Building Blocks: Affine maps, non-linearities, and objectives
-	4. Optimization and Training
-	5. Creating Network Components in Pytorch
-	  * Example: Logistic Regression Bag-of-Words text classifier
-	6. Word Embeddings: Encoding Lexical Semantics
-	  * Example: N-Gram Language Modeling
-	  * Exercise: Continuous Bag-of-Words for learning word embeddings
-	7. Sequence modeling and Long-Short Term Memory Networks
-	  * Example: An LSTM for Part-of-Speech Tagging
-	  * Exercise: Augmenting the LSTM tagger with character-level features
-	8. Advanced: Making Dynamic Decisions
-	  * Example: Bi-LSTM Conditional Random Field for named-entity recognition
-	  * Exercise: A new loss function
-- [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
-	1. PyTorch Basics
-	2. Linear Regression
-	3. Logistic Regression
-	4. Feedforward Neural Network
-	5. Convolutional Neural Network
-	6. Deep Residual Network
-	7. Recurrent Neural Network
-	8. Bidirectional Recurrent Neural Network
-	9. Language Model (RNNLM)
-	10. Image Captioning (CNN-RNN)
-	11. Generative Adversarial Network
-	12. Deep Q-Network and Q-learning (WIP)
-- [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
-- [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
-- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
-	1. Skip-gram-Naive-Softmax
-	2. Skip-gram-Negative-Sampling
-	3. GloVe
-	4. Window-Classifier-for-NER
-	5. Neural-Dependancy-Parser
-	6. RNN-Language-Model
-	7. Neural-Machine-Translation-with-Attention
-	8. CNN-for-Text-Classification
-	9. Recursive-NN-for-Sentiment-Classification
-	10. Dynamic-Memory-Network-for-Question-Answering
-- [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 
 ## Papers Originally Implemented with PyTorch
+- [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)
+- [BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
+- [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
+- [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
+- [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
 - [Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks ](https://github.com/xternalz/SDPoint)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
 - [PyTorch Realtime Multi-Person Pose Estimation](https://github.com/DavexPro/pytorch-pose-estimation)
@@ -133,10 +80,14 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Quasi-Recurrent Neural Network (QRNN)](https://github.com/salesforce/pytorch-qrnn)
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/thstkdgus35/EDSR-PyTorch)
 - [DiracNets](https://github.com/szagoruyko/diracnets)
+- [pytorch-CycleGAN-and-pix2pixpytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [OpenNMT](https://github.com/OpenNMT/OpenNMT-py)
+- [Superresolution using an efficient sub-pixel convolutional neural network](https://github.com/pytorch/examples/tree/master/super_resolution)
 - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://github.com/emited/flow)
 - [GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral)](https://github.com/albertpumarola/GANimation)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Clarinet](https://github.com/ksw0306/ClariNet)
 - [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
 - [Neural Sequence labeling model](https://github.com/jiesutd/PyTorchSeqLabel)
 - [Improved Training of Wasserstein GANs](https://github.com/jalola/improved-wgan-pytorch)
@@ -226,6 +177,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Interpretable Counting for Visual Question Answering](https://github.com/sanyam5/irlc-vqa)
 
 ## Projects Implemented with Pytorch
+- [DeOldify, Coloring Old Images](https://github.com/jantic/DeOldify)
+- [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
 - [Collection of Sequence to Sequence Models with PyTorch](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 	1. Vanilla Sequence to Sequence models
@@ -260,12 +213,14 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
 - [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
 - [SLM-Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://github.com/kengz/SLM-Lab)
+- [torchgan: Framework for modelling Generative Adversarial Networks in Pytorch](https://github.com/torchgan/torchgan)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
 - [PyTorch Zero to All Lectures (Free)](http://bit.ly/PyTorchVideo)
 
 ## Useful PyTorch Tools
+- [Torchstat for Statistics on PyTorch Models](https://github.com/Swall0w/torchstat)
 - [Load Audio files directly into PyTorch Tensors](https://github.com/pytorch/audio)
 - [Weight Initializations](https://github.com/pytorch/pytorch/blob/master/torch/nn/init.py)
 - [Spatial transformer implemented in PyTorch](https://github.com/fxia22/stn.pytorch)
