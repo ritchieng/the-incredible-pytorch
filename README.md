@@ -31,6 +31,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 
 ## Papers Originally Implemented with PyTorch
+- [Hierarchical Multi-Task Learning Model](https://github.com/huggingface/hmtl)
 - [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)
 - [BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
 - [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
