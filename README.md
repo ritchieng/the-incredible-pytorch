@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-300+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-3000+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-500+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
@@ -31,6 +31,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 
 ## Papers Originally Implemented with PyTorch
+- [PyTorch-Kaldi Speech Recognition Toolkit](https://github.com/mravanelli/pytorch-kaldi)
 - [Hierarchical Multi-Task Learning Model](https://github.com/huggingface/hmtl)
 - [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)
 - [BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
