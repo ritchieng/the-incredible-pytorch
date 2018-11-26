@@ -180,6 +180,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Interpretable Counting for Visual Question Answering](https://github.com/sanyam5/irlc-vqa)
 
 ## Projects Implemented with Pytorch
+- [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
 - [EuclidesDB, Multi-Model Machine Learning Feature Database](https://github.com/perone/euclidesdb)
 - [DeOldify, Coloring Old Images](https://github.com/jantic/DeOldify)
 - [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
