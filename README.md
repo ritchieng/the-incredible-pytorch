@@ -178,6 +178,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
  - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  - [Interpretable Counting for Visual Question Answering](https://github.com/sanyam5/irlc-vqa)
+ - [Big collection of pretrained classification models](https://github.com/osmr/imgclsmob)
 
 ## Projects Implemented with Pytorch
 - [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
