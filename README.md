@@ -233,6 +233,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Use tensorboard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
 - [Simple Fit Module in PyTorch, similar to Keras](https://github.com/henryre/pytorch-fitmodule)
 - [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
+- [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
+- [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
