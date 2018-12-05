@@ -181,6 +181,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Big collection of pretrained classification models](https://github.com/osmr/imgclsmob)
 
 ## Projects Implemented with Pytorch
+- [Mixed Precision Training in PyTorch](https://github.com/suvojit-0x55aa/mixed-precision-pytorch)
 - [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
 - [EuclidesDB, Multi-Model Machine Learning Feature Database](https://github.com/perone/euclidesdb)
 - [DeOldify, Coloring Old Images](https://github.com/jantic/DeOldify)
