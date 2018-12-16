@@ -179,8 +179,10 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
  - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  - [Interpretable Counting for Visual Question Answering](https://github.com/sanyam5/irlc-vqa)
+ - [Big collection of pretrained classification models](https://github.com/osmr/imgclsmob)
 
 ## Projects Implemented with Pytorch
+- [Mixed Precision Training in PyTorch](https://github.com/suvojit-0x55aa/mixed-precision-pytorch)
 - [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
 - [EuclidesDB, Multi-Model Machine Learning Feature Database](https://github.com/perone/euclidesdb)
 - [DeOldify, Coloring Old Images](https://github.com/jantic/DeOldify)
@@ -234,6 +236,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Use tensorboard with PyTorch](https://github.com/lanpa/tensorboard-pytorch)
 - [Simple Fit Module in PyTorch, similar to Keras](https://github.com/henryre/pytorch-fitmodule)
 - [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
+- [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
+- [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
