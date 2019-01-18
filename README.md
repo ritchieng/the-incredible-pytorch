@@ -31,6 +31,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 
 ## Papers Originally Implemented with PyTorch
+- [FaceBoxes, a CPU real-time face detector with high accuracy](https://github.com/zisianw/FaceBoxes.PyTorch)
 - [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://github.com/yikangshen/Ordered-Neurons)
 - [Loss Visualization](https://github.com/tomgoldstein/loss-landscape)
 - [PyTorch-Kaldi Speech Recognition Toolkit](https://github.com/mravanelli/pytorch-kaldi)
