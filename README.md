@@ -91,6 +91,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral)](https://github.com/albertpumarola/GANimation)
 
 ## Papers with Third-Party PyTorch Implementations
+- [Shufflenet V2 by Face++ with better results than paper](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 - [Associative Compression Networks](https://github.com/jalexvig/associative_compression_networks)
 - [Clarinet](https://github.com/ksw0306/ClariNet)
 - [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
