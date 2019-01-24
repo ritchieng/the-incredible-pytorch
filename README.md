@@ -186,6 +186,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [Big collection of pretrained classification models](https://github.com/osmr/imgclsmob)
 
 ## Projects Implemented with Pytorch
+- [High performance facial recognition library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 - [Delira, lightweight framework for medical imaging prototyping](https://github.com/justusschock/delira)
 - [PyTorch Inference on C++ in Windows](https://github.com/zccyman/pytorch-inference)
 - [Shap, a unified approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
