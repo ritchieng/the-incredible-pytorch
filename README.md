@@ -212,6 +212,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
 - [Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
 - [Simple Generative Adversarial Networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks)
+- [Neural Style Transfer](https://github.com/ProGamerGov/neural-style-pt)
 - [Fast Neural Style Transfer](https://github.com/darkstar112358/fast-neural-style)
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 - [Draw like Bob Ross](https://github.com/kendricktan/drawlikebobross)
