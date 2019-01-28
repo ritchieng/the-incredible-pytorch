@@ -1,35 +1,3 @@
-<p align="center"><img width="40%" src="the_incredible_pytorch.png" /></p>
-
---------------------------------------------------------------------------------
-<p align="center">
-	<img src="https://img.shields.io/badge/stars-3000+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-500+-blue.svg"/>
-	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
-</p>
-
-This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). Feel free to make a pull request to contribute to this list.
-
-## Tutorials
-- [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
-- [Official PyTorch Examples](https://github.com/pytorch/examples)
-- [Practical Deep Learning with PyTorch by Deep Learning Wizard (Ritchie Ng)](https://github.com/ritchieng/deep-learning-wizard)
-- [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
-- [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
-- [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
-- [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
-- [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
-- [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
-- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
-- [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
-- [Practical PyTorch](https://github.com/spro/practical-pytorch)
-- [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
-	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
-	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
-	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
-	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
-	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
-	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
-
 ## Visualization
 - [Loss Visualization](https://github.com/tomgoldstein/loss-landscape)
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/jacobgil/pytorch-grad-cam)
@@ -269,6 +237,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## New Thinking on General Neural Network Architecture
 - [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/andrewliao11/dni.pytorch)
 
+
+
+
 ## To be Classified
 - [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
 - [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
@@ -306,21 +277,3 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
 - [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
-
-
-## PyTorch Video Tutorials
-- [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
-- [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
-
-## Community
-- [PyTorch Discussion Forum](https://discuss.pytorch.org/)
-- [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
-
-## Links to This Repository
-- [Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
-- [Website](https://www.ritchieng.com/the-incredible-pytorch/)
-
-## Contributions
-Do feel free to contribute!
-
-You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point.
