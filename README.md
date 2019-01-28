@@ -48,6 +48,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 
 ## Optimization
+- [Riemannian Adaptive Optimization Methods](https://github.com/ferrine/geoopt)
 - [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
