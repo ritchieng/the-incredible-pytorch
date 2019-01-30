@@ -141,6 +141,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
 
 ## GANs, VAEs, and AEs
+- [VeGANS, library for easily training GANs](https://github.com/unit8co/vegans)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 - [Adversarial Generator-Encoder Network](https://github.com/DmitryUlyanov/AGE)
