@@ -53,6 +53,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
 
+## Neural Network Compression
+- [Pruning neural networks: is it time to nip it in the bud? (showing reduced networks work better)](https://github.com/BayesWatch/pytorch-prunes)
+
 ## Facial, Action and Pose Recognition
 - [High performance facial recognition library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 - [FaceBoxes, a CPU real-time face detector with high accuracy](https://github.com/zisianw/FaceBoxes.PyTorch)
