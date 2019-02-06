@@ -138,6 +138,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Watch Your Step: Learning Node Embeddings via Graph Attention](https://github.com/benedekrozemberczki/AttentionWalk)
 - [Signed Graph Convolutional Network](https://github.com/benedekrozemberczki/SGCN)
 - [Graph Classification Using Structural Attention](https://github.com/benedekrozemberczki/GAM)
+- [SimGNN: A Neural Network Approach to Fast Graph Similarity Computation](https://github.com/benedekrozemberczki/SimGNN)
+- [SINE: Scalable Incomplete Network Embedding](https://github.com/benedekrozemberczki/SINE)
 
 ## Multi-task Learning
 - [Hierarchical Multi-Task Learning Model](https://github.com/huggingface/hmtl)
@@ -205,7 +207,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [VSE++: Improved Visual-Semantic Embeddings](https://github.com/fartashf/vsepp)
 - [A Structured Self-Attentive Sentence Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
 - [Neural Sequence labeling model](https://github.com/jiesutd/PyTorchSeqLabel)
-- [SINE: Scalable Incomplete Network Embedding](https://github.com/benedekrozemberczki/SINE)
 - [Skip-Thought Vectors](https://github.com/sanyam5/skip-thoughts)
 - [Complete Suite for Training Seq2Seq Models in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 - [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
