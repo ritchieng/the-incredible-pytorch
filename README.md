@@ -28,7 +28,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
 	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
 	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
-	- [CGAN](https://github.com/kmualim/CGAN-Pytorch/blob/master/cgan.py)
 	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 
 ## Visualization
@@ -149,6 +148,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## GANs, VAEs, and AEs
 - [VeGANS, library for easily training GANs](https://github.com/unit8co/vegans)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
+- [Conditional GAN](https://github.com/kmualim/CGAN-Pytorch/)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 - [Adversarial Generator-Encoder Network](https://github.com/DmitryUlyanov/AGE)
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
