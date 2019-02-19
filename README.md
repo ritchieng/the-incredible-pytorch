@@ -12,7 +12,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
-- [Practical Deep Learning with PyTorch by Deep Learning Wizard (Ritchie Ng)](https://github.com/ritchieng/deep-learning-wizard)
+- [Practical Deep Learning with PyTorch](https://github.com/ritchieng/deep-learning-wizard)
 - [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
 - [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
