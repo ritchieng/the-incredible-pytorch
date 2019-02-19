@@ -1,0 +1,24 @@
+- For starting cash, we can't use a dollar value because of the transformed data. After shifting earlier, we know the mean of each opening price should be 35, so I'm starting the agent off with enough cash to buy ~2.5 shares.
+
+- This starting cash is the mean starting cash; it can be randomized by altering the std parameter
+
+- action space
+0 buy apple
+1 sell apple
+2 do nothing
+3 buy msft
+4 sell msft
+quantity. eg. [0, 100]
+
+- obs space:
+apl shares [0]
+msft shares [1]
+cash in bank [2]
+today apl open [3]
+today msf open [4]
+portfolio value [5]
+5 day window [6apl, 7msf] = 8
+
+- If bot gets to the end with more than one of each share, we give it a bonus for having a diversified portfolio
+
+- Buys and sells attract a 10% brokerage fee

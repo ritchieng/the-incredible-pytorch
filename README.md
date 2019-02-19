@@ -104,6 +104,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	3. Faster attention mechanisms using dot products between the final encoder and decoder hidden states
 
 ## Convolutional Neural Networks (CNNs)
+- [Deep Neural Networks with Box Convolutions](https://github.com/shrubb/box-convolutions)
 - [Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks ](https://github.com/xternalz/SDPoint)
 - [Faster Faster R-CNN Implementation](https://github.com/jwyang/faster-rcnn.pytorch)
 	- [Faster R-CNN Another Implementation](https://github.com/longcw/faster_rcnn_pytorch)
