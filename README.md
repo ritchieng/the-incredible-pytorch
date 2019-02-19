@@ -256,6 +256,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Deep Bayesian Learning and Probabilistic Programmming
 - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
+- [Bayesian CNN with Variational Inferece in PyTorch](https://github.com/kumar-shridhar/PyTorch-BayesianCNN)
 
 ## Regression Types
 - [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
