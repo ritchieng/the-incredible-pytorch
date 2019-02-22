@@ -143,6 +143,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Graph Classification Using Structural Attention](https://github.com/benedekrozemberczki/GAM)
 - [SimGNN: A Neural Network Approach to Fast Graph Similarity Computation](https://github.com/benedekrozemberczki/SimGNN)
 - [SINE: Scalable Incomplete Network Embedding](https://github.com/benedekrozemberczki/SINE)
+- [HypER: Hypernetwork Knowledge Graph Embeddings](https://github.com/ibalazevic/HypER)
+- [TuckER: Tensor Factorization for Knowledge Graph Completion](https://github.com/ibalazevic/TuckER)
 
 ## Multi-task Learning
 - [Hierarchical Multi-Task Learning Model](https://github.com/huggingface/hmtl)
