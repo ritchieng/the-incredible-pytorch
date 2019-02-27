@@ -48,6 +48,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 
 ## Optimization
+- [AdaBound, Train As Fast as Adam As Good as SGD](https://github.com/Luolc/AdaBound)
 - [Riemannian Adaptive Optimization Methods](https://github.com/ferrine/geoopt)
 - [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
