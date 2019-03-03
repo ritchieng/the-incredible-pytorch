@@ -136,7 +136,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 
 ## Graph
-- [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/benedekrozemberczki/APPNP)
+- [A Higher-Order Graph Convolutional Layer](https://github.com/benedekrozemberczki/NGCN)
+- [Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://github.com/benedekrozemberczki/APPNP)
 - [Lorentz Embeddings: Learn Continuous Hierarchies in Hyperbolic Space](https://github.com/theSage21/lorentz-embeddings)
 - [Graph Wavelet Neural Network](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
 - [Watch Your Step: Learning Node Embeddings via Graph Attention](https://github.com/benedekrozemberczki/AttentionWalk)
