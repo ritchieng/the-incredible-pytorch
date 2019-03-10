@@ -308,6 +308,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
 
 ## PyTorch Utilities
+- [PyTorch FLOPs counter](https://github.com/Lyken17/pytorch-OpCounter)
 - [PyTorch Inference on C++ in Windows](https://github.com/zccyman/pytorch-inference)
 - [EuclidesDB, Multi-Model Machine Learning Feature Database](https://github.com/perone/euclidesdb)
 - [Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
