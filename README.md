@@ -136,6 +136,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 
 ## Graph
+- [Splitter: Learning Node Representations that Capture Multiple Social Contexts](https://github.com/benedekrozemberczki/Splitter)
 - [A Higher-Order Graph Convolutional Layer](https://github.com/benedekrozemberczki/NGCN)
 - [Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://github.com/benedekrozemberczki/APPNP)
 - [Lorentz Embeddings: Learn Continuous Hierarchies in Hyperbolic Space](https://github.com/theSage21/lorentz-embeddings)
