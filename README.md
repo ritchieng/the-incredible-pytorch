@@ -250,6 +250,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
 
 ## Deep Reinforcement Learning
+- [PPO in PyTorch C++](https://github.com/mhubii/ppo_pytorch_cpp)
 - [Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback](https://github.com/khanhptnk/bandit-nmt)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://github.com/ikostrikov/pytorch-a3c)
 - [Continuous Deep Q-Learning with Model-based Acceleration](https://github.com/ikostrikov/pytorch-naf)
