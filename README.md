@@ -54,6 +54,10 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
 
+## Quantum Machine Learning
+- [Tor10, generic tensor-network library for quantum simulation in PyTorch](https://github.com/kaihsin/Tor10)
+- [PennyLane, cross-platform Python library for quantum machine learning with PyTorch interface](https://github.com/XanaduAI/pennylane)
+
 ## Neural Network Compression
 - [Pruning neural networks: is it time to nip it in the bud? (showing reduced networks work better)](https://github.com/BayesWatch/pytorch-prunes)
 
