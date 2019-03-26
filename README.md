@@ -78,6 +78,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Superresolution using an efficient sub-pixel convolutional neural network](https://github.com/pytorch/examples/tree/master/super_resolution)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/bengxy/FastNeuralStyle)
 
+## Voice
+- [Google AI VoiceFilter: Targeted Voice Separatation by Speaker-Conditioned Spectrogram Masking](https://github.com/mindslab-ai/voicefilter)
+
 ## Medical
 - [Delira, lightweight framework for medical imaging prototyping](https://github.com/justusschock/delira)
 - [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://github.com/mattmacy/vnet.pytorch)
