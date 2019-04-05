@@ -86,6 +86,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Google AI VoiceFilter: Targeted Voice Separatation by Speaker-Conditioned Spectrogram Masking](https://github.com/mindslab-ai/voicefilter)
 
 ## Medical
+- [Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening](https://github.com/nyukat/breast_cancer_classifier)
 - [Delira, lightweight framework for medical imaging prototyping](https://github.com/justusschock/delira)
 - [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://github.com/mattmacy/vnet.pytorch)
 - [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
