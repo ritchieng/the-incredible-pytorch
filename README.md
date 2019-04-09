@@ -344,6 +344,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
 - [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
 
+## Datasets
+- [Worldbank Data](https://github.com/mwouts/world_bank_data)
+
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
