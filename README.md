@@ -62,6 +62,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pruning neural networks: is it time to nip it in the bud? (showing reduced networks work better)](https://github.com/BayesWatch/pytorch-prunes)
 
 ## Facial, Action and Pose Recognition
+- [DGC-Net: Dense Geometric Correspondence Network](https://github.com/AaltoVision/DGC-Net)
 - [High performance facial recognition library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 - [FaceBoxes, a CPU real-time face detector with high accuracy](https://github.com/zisianw/FaceBoxes.PyTorch)
 - [How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)](https://github.com/1adrianb/face-alignment)
