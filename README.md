@@ -223,6 +223,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
 
 ## General NLP
+- [Libre Office Translate via PyTorch NMT](https://github.com/lernapparat/lotranslate)
 - [BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
 - [VSE++: Improved Visual-Semantic Embeddings](https://github.com/fartashf/vsepp)
 - [A Structured Self-Attentive Sentence Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
