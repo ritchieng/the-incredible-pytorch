@@ -322,6 +322,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
 - [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
 
+## Low Level Utilities
+- [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
+
 ## PyTorch Utilities
 - [PyTorch FLOPs counter](https://github.com/Lyken17/pytorch-OpCounter)
 - [PyTorch Inference on C++ in Windows](https://github.com/zccyman/pytorch-inference)
