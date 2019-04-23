@@ -77,6 +77,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/ClementPinard/FlowNetPytorch)
 - [Optical Flow Estimation using a Spatial Pyramid Network](https://github.com/sniklaus/pytorch-spynet)
 - [OpenFace in PyTorch](https://github.com/thnkim/OpenFacePytorch)
+- [Deep Face Recognition in PyTorch](https://github.com/grib0ed0v/face_recognition.pytorch)
 
 ## Super resolution
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/thstkdgus35/EDSR-PyTorch)
