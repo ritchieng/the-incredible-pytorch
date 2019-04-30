@@ -146,6 +146,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 
 ## Graph
+- [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/benedekrozemberczki/SEAL-CI)
 - [PyTorch BigGraph by FAIR for Generating Embeddings From Large-scale Graph Data](https://github.com/facebookresearch/PyTorch-BigGraph)
 - [Capsule Graph Neural Network](https://github.com/benedekrozemberczki/CapsGNN)
 - [Splitter: Learning Node Representations that Capture Multiple Social Contexts](https://github.com/benedekrozemberczki/Splitter)
