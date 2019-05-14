@@ -118,6 +118,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Convolutional Neural Networks (CNNs)
 - [MeshCNN, a convolutional neural network designed specifically for triangular meshes](https://github.com/ranahanocka/MeshCNN)
 - [Octave Convolution](https://github.com/d-li14/octconv.pytorch)
+- [PyTorch Image Models, ResNet/ResNeXT, DPN, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet](https://github.com/rwightman/pytorch-image-models)
 - [Deep Neural Networks with Box Convolutions](https://github.com/shrubb/box-convolutions)
 - [Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks ](https://github.com/xternalz/SDPoint)
 - [Faster Faster R-CNN Implementation](https://github.com/jwyang/faster-rcnn.pytorch)
