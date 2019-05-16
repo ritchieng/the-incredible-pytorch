@@ -59,6 +59,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PennyLane, cross-platform Python library for quantum machine learning with PyTorch interface](https://github.com/XanaduAI/pennylane)
 
 ## Neural Network Compression
+- [EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://github.com/alecwangcq/EigenDamage-Pytorch)
+- [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://github.com/jacobgil/pytorch-pruning)
 - [Pruning neural networks: is it time to nip it in the bud? (showing reduced networks work better)](https://github.com/BayesWatch/pytorch-prunes)
 
 ## Facial, Action and Pose Recognition
@@ -296,7 +298,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://github.com/eladhoffer/bigBatch)
 - [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://github.com/ajbrock/FreezeOut)
 - [Binary Stochastic Neurons](https://github.com/Wizaron/binary-stochastic-neurons)
-- [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://github.com/jacobgil/pytorch-pruning)
 - [Compact Bilinear Pooling](https://github.com/DeepInsight-PCALab/CompactBilinearPooling-Pytorch)
 - [Mixed Precision Training in PyTorch](https://github.com/suvojit-0x55aa/mixed-precision-pytorch)
 
