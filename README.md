@@ -122,6 +122,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Octave Convolution](https://github.com/d-li14/octconv.pytorch)
 - [PyTorch Image Models, ResNet/ResNeXT, DPN, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet](https://github.com/rwightman/pytorch-image-models)
 - [Deep Neural Networks with Box Convolutions](https://github.com/shrubb/box-convolutions)
+- [Invertible Residual Networks](https://github.com/jarrelscy/iResnet)
 - [Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks ](https://github.com/xternalz/SDPoint)
 - [Faster Faster R-CNN Implementation](https://github.com/jwyang/faster-rcnn.pytorch)
 	- [Faster R-CNN Another Implementation](https://github.com/longcw/faster_rcnn_pytorch)
