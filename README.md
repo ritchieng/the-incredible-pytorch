@@ -38,6 +38,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Explainability
 - [Shap, a unified approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
+- [VIsualizing PyTorch saved .pth deep learning models with netron](https://github.com/lutzroeder/netron)
 
 ## Object Detection
 - [YOLOv3](https://www.google.com/search?q=yolo+v3+pytorc&oq=yolo+v3+pytorc&aqs=chrome..69i57j69i60l3j69i59.2355j0j4&sourceid=chrome&ie=UTF-8)
