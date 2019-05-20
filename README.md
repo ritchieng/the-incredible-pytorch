@@ -152,6 +152,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Segmentation
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
+- [Pywick - High-level batteries-included neural network training library for Pytorch](https://github.com/achaiah/pywick)
 
 ## Graph
 - [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
