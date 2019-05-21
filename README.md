@@ -48,6 +48,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://github.com/potterhsu/SVHNClassifier-PyTorch)
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 
+## Long-Tailed Recognition
+- [Large-Scale Long-Tailed Recognition in an Open World](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
+
 ## Optimization
 - [AdaBound, Train As Fast as Adam As Good as SGD](https://github.com/Luolc/AdaBound)
 - [Riemannian Adaptive Optimization Methods](https://github.com/ferrine/geoopt)
