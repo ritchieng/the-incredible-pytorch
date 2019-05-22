@@ -50,6 +50,10 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Long-Tailed Recognition
 - [Large-Scale Long-Tailed Recognition in an Open World](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
+- [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
+
+## Missing Data
+ - [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series)
 
 ## Optimization
 - [AdaBound, Train As Fast as Adam As Good as SGD](https://github.com/Luolc/AdaBound)
@@ -319,7 +323,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
 - [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
 - [Scaling the Scattering Transform: Deep Hybrid Networks](https://github.com/edouardoyallon/pyscatwave)
-- [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
 - [CortexNet: a Generic Network Family for Robust Visual Temporal Representations](https://github.com/e-lab/pytorch-CortexNet)
 - [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
 - [Associative Compression Networks](https://github.com/jalexvig/associative_compression_networks)
