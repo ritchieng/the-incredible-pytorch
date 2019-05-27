@@ -55,6 +55,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Missing Data
  - [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series)
 
+## Architecture Search
+- [DARTS: Differentiable Architecture Search](https://github.com/quark0/darts)
+
 ## Optimization
 - [AdaBound, Train As Fast as Adam As Good as SGD](https://github.com/Luolc/AdaBound)
 - [Riemannian Adaptive Optimization Methods](https://github.com/ferrine/geoopt)
