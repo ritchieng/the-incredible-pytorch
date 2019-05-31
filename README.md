@@ -70,6 +70,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PennyLane, cross-platform Python library for quantum machine learning with PyTorch interface](https://github.com/XanaduAI/pennylane)
 
 ## Neural Network Compression
+- [Energy-constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking](https://github.com/hyang1990/model_based_energy_constrained_compression)
 - [EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://github.com/alecwangcq/EigenDamage-Pytorch)
 - [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://github.com/jacobgil/pytorch-pruning)
 - [Pruning neural networks: is it time to nip it in the bud? (showing reduced networks work better)](https://github.com/BayesWatch/pytorch-prunes)
