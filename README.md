@@ -130,6 +130,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	3. Faster attention mechanisms using dot products between the final encoder and decoder hidden states
 
 ## Convolutional Neural Networks (CNNs)
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/zsef123/EfficientNets-PyTorch)
 - [MeshCNN, a convolutional neural network designed specifically for triangular meshes](https://github.com/ranahanocka/MeshCNN)
 - [Octave Convolution](https://github.com/d-li14/octconv.pytorch)
 - [PyTorch Image Models, ResNet/ResNeXT, DPN, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet](https://github.com/rwightman/pytorch-image-models)
