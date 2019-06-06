@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-3000+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-500+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-3500+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-700+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
@@ -40,6 +40,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Hierarchical interpretations for neural network predictions](https://github.com/csinva/hierarchical-dnn-interpretations)
 - [Shap, a unified approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
 - [VIsualizing PyTorch saved .pth deep learning models with netron](https://github.com/lutzroeder/netron)
+- [Distilling a Neural Network Into a Soft Decision Tree](https://github.com/kimhc6028/soft-decision-tree)
 
 ## Object Detection
 - [YOLOv3](https://www.google.com/search?q=yolo+v3+pytorc&oq=yolo+v3+pytorc&aqs=chrome..69i57j69i60l3j69i59.2355j0j4&sourceid=chrome&ie=UTF-8)
