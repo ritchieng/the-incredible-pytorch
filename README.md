@@ -251,6 +251,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
 
 ## General NLP
+- [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://github.com/qkaren/converse_reading_cmr)
 - [Cross-lingual Language Model Pretraining](https://github.com/facebookresearch/XLM)
 - [Libre Office Translate via PyTorch NMT](https://github.com/lernapparat/lotranslate)
 - [BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
