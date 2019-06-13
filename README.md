@@ -107,6 +107,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Google AI VoiceFilter: Targeted Voice Separatation by Speaker-Conditioned Spectrogram Masking](https://github.com/mindslab-ai/voicefilter)
 
 ## Medical
+- [U-Net for FLAIR Abnormality Segmentation in Brain MRI](https://github.com/mateuszbuda/brain-segmentation-pytorch)
 - [Genomic Classification via ULMFiT](https://github.com/kheyer/Genomic-ULMFiT)
 - [Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening](https://github.com/nyukat/breast_cancer_classifier)
 - [Delira, lightweight framework for medical imaging prototyping](https://github.com/justusschock/delira)
