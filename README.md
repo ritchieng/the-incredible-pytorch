@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-3500+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-3700+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-700+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
@@ -118,6 +118,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/fxia22/pointnet.pytorch)
 
 ## Video Recognition
+- [Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://github.com/nv-tlabs/STEAL)
 - [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
 ## Recurrent Neural Networks (RNNs)
