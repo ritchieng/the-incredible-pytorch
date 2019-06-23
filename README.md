@@ -173,6 +173,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pywick - High-level batteries-included neural network training library for Pytorch](https://github.com/achaiah/pywick)
 
 ## Graph
+- [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/benedekrozemberczki/ClusterGCN)
 - [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
 - [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/benedekrozemberczki/SEAL-CI)
 - [PyTorch BigGraph by FAIR for Generating Embeddings From Large-scale Graph Data](https://github.com/facebookresearch/PyTorch-BigGraph)
