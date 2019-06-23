@@ -171,6 +171,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Segmentation
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 - [Pywick - High-level batteries-included neural network training library for Pytorch](https://github.com/achaiah/pywick)
+- [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation)
 
 ## Graph
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/benedekrozemberczki/ClusterGCN)
