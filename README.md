@@ -314,6 +314,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
 - [Bayesian CNN with Variational Inferece in PyTorch](https://github.com/kumar-shridhar/PyTorch-BayesianCNN)
 
+## Anomaly Detection
+- [Detection of Accounting Anomalies using Deep Autoencoder Neural Networks](https://github.com/GitiHubi/deepAI)
+
 ## Regression Types
 - [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
 
