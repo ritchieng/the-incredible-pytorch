@@ -54,6 +54,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Long-Tailed Recognition
 - [Large-Scale Long-Tailed Recognition in an Open World](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
+- [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://github.com/uoguelph-mlrg/confidence_estimation)
 
 ## Missing Data
  - [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series)
@@ -197,6 +198,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
 
 ## GANs, VAEs, and AEs
+- [Variational Laplace Autoencoders](https://github.com/yookoon/VLAE)
 - [VeGANS, library for easily training GANs](https://github.com/unit8co/vegans)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
 - [Conditional GAN](https://github.com/kmualim/CGAN-Pytorch/)
