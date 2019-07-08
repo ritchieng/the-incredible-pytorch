@@ -364,6 +364,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## PyTorch Utilities
+- [HessianFlow, Library for Hessian Based Algorithms](https://github.com/amirgholami/HessianFlow)
 - [Texar, PyTorch Toolkit for Text Generation](https://github.com/asyml/texar-pytorch)
 - [PyTorch FLOPs counter](https://github.com/Lyken17/pytorch-OpCounter)
 - [PyTorch Inference on C++ in Windows](https://github.com/zccyman/pytorch-inference)
