@@ -299,6 +299,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
 
 ## Deep Reinforcement Learning
+- [Learning when to communicate at scale in multiagent cooperative and competitive tasks](https://github.com/IC3Net/IC3Net)
 - [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://github.com/shariqiqbal2810/MAAC)
 - [PPO in PyTorch C++](https://github.com/mhubii/ppo_pytorch_cpp)
 - [Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback](https://github.com/khanhptnk/bandit-nmt)
