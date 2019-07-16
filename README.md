@@ -193,6 +193,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [HypER: Hypernetwork Knowledge Graph Embeddings](https://github.com/ibalazevic/HypER)
 - [TuckER: Tensor Factorization for Knowledge Graph Completion](https://github.com/ibalazevic/TuckER)
 
+## Sorting
+- [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://github.com/ermongroup/neuralsort)
+
 ## Multi-task Learning
 - [Hierarchical Multi-Task Learning Model](https://github.com/huggingface/hmtl)
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
