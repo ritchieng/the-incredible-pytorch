@@ -368,6 +368,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## PyTorch Utilities
+- [Sparse Distributions](https://github.com/probabll/sparse-distributions)
 - [Diffdist, Adds Support for Differentiable Communication allowing distributed model parallelism](https://github.com/ag14774/diffdist)
 - [HessianFlow, Library for Hessian Based Algorithms](https://github.com/amirgholami/HessianFlow)
 - [Texar, PyTorch Toolkit for Text Generation](https://github.com/asyml/texar-pytorch)
