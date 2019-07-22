@@ -368,6 +368,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## PyTorch Utilities
+- [Layer-by-layer PyTorch Model Profiler for Checking Model Time Consumption](https://github.com/awwong1/torchprof)
 - [Sparse Distributions](https://github.com/probabll/sparse-distributions)
 - [Diffdist, Adds Support for Differentiable Communication allowing distributed model parallelism](https://github.com/ag14774/diffdist)
 - [HessianFlow, Library for Hessian Based Algorithms](https://github.com/amirgholami/HessianFlow)
@@ -387,7 +388,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
 - [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
-
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
