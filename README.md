@@ -75,6 +75,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PennyLane, cross-platform Python library for quantum machine learning with PyTorch interface](https://github.com/XanaduAI/pennylane)
 
 ## Neural Network Compression
+- [Bayesian Compression for Deep Learning](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)
 - [Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 - [Energy-constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking](https://github.com/hyang1990/model_based_energy_constrained_compression)
 - [EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://github.com/alecwangcq/EigenDamage-Pytorch)
