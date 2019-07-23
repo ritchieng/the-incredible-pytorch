@@ -56,6 +56,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
 - [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://github.com/uoguelph-mlrg/confidence_estimation)
 
+## Energy-Based Learning
+- [EBGAN, Energy-Based GANs](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ebgan/ebgan.py)
+
 ## Missing Data
  - [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series)
 
