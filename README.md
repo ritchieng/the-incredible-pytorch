@@ -337,6 +337,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Time Series
 - [Variational Recurrent Autoencoder for Timeseries Clustering](https://github.com/tejaslodaya/timeseries-clustering-vae)
+- [Spatio-Temporal Neural Networks for Space-Time Series Modeling and Relations Discovery](https://github.com/edouardelasalles/stnn)
 
 ## Neural Network General Improvements
 - [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://github.com/mapillary/inplace_abn)
