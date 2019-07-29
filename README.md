@@ -348,6 +348,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Mixed Precision Training in PyTorch](https://github.com/suvojit-0x55aa/mixed-precision-pytorch)
 
 ## DNN Applications in Chemistry and Physics
+- [Wave Physics as an Analog Recurrent Neural Network](https://github.com/fancompute/wavetorch)
 - [Neural Message Passing for Quantum Chemistry](https://github.com/priba/nmp_qc)
 - [Automatic chemical design using a data-driven continuous representation of molecules](https://github.com/cxhernandez/molencoder)
 - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://github.com/emited/flow)
