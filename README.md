@@ -180,6 +180,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation)
 
 ## Graph
+- [Signed Graph Convolutional Neural Network](https://github.com/benedekrozemberczki/SGCN)
 - [Graph U-Nets](https://github.com/HongyangGao/gunet)
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/benedekrozemberczki/ClusterGCN)
 - [MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
