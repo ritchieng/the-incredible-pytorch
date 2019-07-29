@@ -208,6 +208,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
 
 ## GANs, VAEs, and AEs
+- [Learning deep representations by mutual information estimation and maximization](https://github.com/DuaneNielsen/DeepInfomaxPytorch)
 - [Variational Laplace Autoencoders](https://github.com/yookoon/VLAE)
 - [VeGANS, library for easily training GANs](https://github.com/unit8co/vegans)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
