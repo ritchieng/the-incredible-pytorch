@@ -270,6 +270,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
 
 ## General NLP
+- [Label-aware Document Representation via Hybrid Attention for Extreme Multi-Label Text Classification](https://github.com/HX-idiot/Hybrid_Attention_XML)
 - [XLNet](https://github.com/graykode/xlnet-Pytorch)
 - [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://github.com/qkaren/converse_reading_cmr)
 - [Cross-lingual Language Model Pretraining](https://github.com/facebookresearch/XLM)
