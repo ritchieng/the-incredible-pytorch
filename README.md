@@ -329,6 +329,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [SLM-Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://github.com/kengz/SLM-Lab)
 
 ## Deep Bayesian Learning and Probabilistic Programmming
+- [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://github.com/BlackHC/BatchBALD)
 - [Subspace Inference for Bayesian Deep Learning](https://github.com/wjmaddox/drbayes)
 - [Bayesian Deep Learning with Variational Inference Package](https://github.com/ctallec/pyvarinf)
 - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
