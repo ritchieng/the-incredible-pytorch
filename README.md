@@ -51,7 +51,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://github.com/potterhsu/SVHNClassifier-PyTorch)
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 
-## Long-Tailed Recognition
+## Long-Tailed / Out-of-Distribution Recognition
+- [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure)
 - [Large-Scale Long-Tailed Recognition in an Open World](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
 - [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://github.com/uoguelph-mlrg/confidence_estimation)
