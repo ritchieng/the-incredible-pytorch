@@ -69,8 +69,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/zsef123/EfficientNets-PyTorch)
 
 ## Optimization
-- [Lookahead Optimizer: k steps forward, 1 step back]
-- [RAdam, On the Variance of the Adaptive Learning Rate and Beyond]
+- [Lookahead Optimizer: k steps forward, 1 step back](https://github.com/alphadl/lookahead.pytorch)
+- [RAdam, On the Variance of the Adaptive Learning Rate and Beyond](https://github.com/LiyuanLucasLiu/RAdam)
 - [AdaBound, Train As Fast as Adam As Good as SGD](https://github.com/Luolc/AdaBound)
 - [Riemannian Adaptive Optimization Methods](https://github.com/ferrine/geoopt)
 - [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
