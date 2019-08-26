@@ -71,6 +71,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Optimization
 - [Lookahead Optimizer: k steps forward, 1 step back](https://github.com/alphadl/lookahead.pytorch)
 - [RAdam, On the Variance of the Adaptive Learning Rate and Beyond](https://github.com/LiyuanLucasLiu/RAdam)
+- [Over9000, Comparison of RAdam, Lookahead, Novograd, and combinations](https://github.com/mgrankin/over9000)
 - [AdaBound, Train As Fast as Adam As Good as SGD](https://github.com/Luolc/AdaBound)
 - [Riemannian Adaptive Optimization Methods](https://github.com/ferrine/geoopt)
 - [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
