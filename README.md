@@ -392,6 +392,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## PyTorch Utilities
+- [Neural Pipeline, Training Pipeline for PyTorch](https://github.com/toodef/neural-pipeline)
 - [Layer-by-layer PyTorch Model Profiler for Checking Model Time Consumption](https://github.com/awwong1/torchprof)
 - [Sparse Distributions](https://github.com/probabll/sparse-distributions)
 - [Diffdist, Adds Support for Differentiable Communication allowing distributed model parallelism](https://github.com/ag14774/diffdist)
