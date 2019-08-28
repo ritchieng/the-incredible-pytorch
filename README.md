@@ -413,6 +413,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
 - [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
+- [Catalyst: High-level utils for PyTorch DL & RL research](https://github.com/catalyst-team/catalyst)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
