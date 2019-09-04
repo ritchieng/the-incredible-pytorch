@@ -91,6 +91,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pruning neural networks: is it time to nip it in the bud? (showing reduced networks work better)](https://github.com/BayesWatch/pytorch-prunes)
 
 ## Facial, Action and Pose Recognition
+- [Facenet: Pretrained Pytorch face detection and recognition models](https://github.com/timesler/facenet-pytorch)
 - [DGC-Net: Dense Geometric Correspondence Network](https://github.com/AaltoVision/DGC-Net)
 - [High performance facial recognition library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 - [FaceBoxes, a CPU real-time face detector with high accuracy](https://github.com/zisianw/FaceBoxes.PyTorch)
@@ -413,7 +414,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [torchbearer: A model fitting library for PyTorch](https://github.com/ecs-vlc/torchbearer)
 - [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
-- [Catalyst: High-level utils for PyTorch DL & RL research](https://github.com/catalyst-team/catalyst)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
