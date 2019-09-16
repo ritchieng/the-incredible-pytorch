@@ -13,6 +13,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
 - [Practical Deep Learning with PyTorch](https://github.com/ritchieng/deep-learning-wizard)
+- [Dive Into Deep Learning with PyTorch](https://github.com/dsgiitr/d2l-pytorch)
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 - [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
