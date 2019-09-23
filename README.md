@@ -282,6 +282,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
 
 ## General NLP
+- [Espresso, Module Neural Automatic Speech Recognition Toolkit](https://github.com/freewym/espresso)
 - [Label-aware Document Representation via Hybrid Attention for Extreme Multi-Label Text Classification](https://github.com/HX-idiot/Hybrid_Attention_XML)
 - [XLNet](https://github.com/graykode/xlnet-Pytorch)
 - [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://github.com/qkaren/converse_reading_cmr)
