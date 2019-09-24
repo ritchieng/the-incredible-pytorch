@@ -45,6 +45,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Distilling a Neural Network Into a Soft Decision Tree](https://github.com/kimhc6028/soft-decision-tree)
 
 ## Object Detection
+- [MMDetection Object Detection Toolbox](https://github.com/open-mmlab/mmdetection)
+- [Mask R-CNN Benchmark: Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
 - [YOLOv3](https://www.google.com/search?q=yolo+v3+pytorc&oq=yolo+v3+pytorc&aqs=chrome..69i57j69i60l3j69i59.2355j0j4&sourceid=chrome&ie=UTF-8)
 - [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
 - [SSD: Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch)
