@@ -327,6 +327,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
 
 ## Deep Reinforcement Learning
+- [Temporal Difference VAE](https://openreview.net/pdf?id=S1x4ghC9tQ)
 - [High-performance Atari A3C Agent in 180 Lines PyTorch](https://github.com/greydanus/baby-a3c)
 - [Learning when to communicate at scale in multiagent cooperative and competitive tasks](https://github.com/IC3Net/IC3Net)
 - [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://github.com/shariqiqbal2810/MAAC)
