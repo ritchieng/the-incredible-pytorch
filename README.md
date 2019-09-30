@@ -189,7 +189,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pywick - High-level batteries-included neural network training library for Pytorch](https://github.com/achaiah/pywick)
 - [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation)
 
-## Graph
+## Geometric Deep Learning: Graph & Irregular Structures
+- [PyTorch Geometric, Deep Learning Extension](https://github.com/rusty1s/pytorch_geometric)
 - [Self-Attention Graph Pooling](https://github.com/inyeoplee77/SAGPool)
 - [Position-aware Graph Neural Networks](https://github.com/JiaxuanYou/P-GNN)
 - [Signed Graph Convolutional Neural Network](https://github.com/benedekrozemberczki/SGCN)
