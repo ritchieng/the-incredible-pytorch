@@ -219,6 +219,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
 
 ## GANs, VAEs, and AEs
+- [Block Neural Autoregressive Flow](https://github.com/nicola-decao/BNAF)
 - [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://github.com/NVIDIA/pix2pixHD)
 - [A Style-Based Generator Architecture for Generative Adversarial Networks](https://github.com/rosinality/style-based-gan-pytorch)
 - [GANDissect, PyTorch Tool for Visualizing Neurons in GANs](https://github.com/CSAILVision/gandissect)
