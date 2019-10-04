@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-3700+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-4000+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-700+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
