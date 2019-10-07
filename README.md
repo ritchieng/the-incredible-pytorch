@@ -70,6 +70,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Architecture Search
 - [DARTS: Differentiable Architecture Search](https://github.com/quark0/darts)
+- [Efficient Neural Architecture Search (ENAS)](https://github.com/carpedm20/ENAS-pytorch)
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/zsef123/EfficientNets-PyTorch)
 
 ## Optimization
