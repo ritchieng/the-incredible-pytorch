@@ -186,6 +186,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)](https://github.com/aaron-xichen/pytorch-playground)
 
 ## Segmentation
+- [Detectron2 by FAIR](https://github.com/facebookresearch/detectron2)
 - [Pixel-wise Segmentation on VOC2012 Dataset using PyTorch](https://github.com/bodokaiser/piwise)
 - [Pywick - High-level batteries-included neural network training library for Pytorch](https://github.com/achaiah/pywick)
 - [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation)
