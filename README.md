@@ -412,6 +412,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## PyTorch Utilities
+- [Albumentations: Fast Image Augmentation Library](https://github.com/albu/albumentations)
 - [Higher, obtain higher order gradients over losses spanning training loops](https://github.com/facebookresearch/higher)
 - [Neural Pipeline, Training Pipeline for PyTorch](https://github.com/toodef/neural-pipeline)
 - [Layer-by-layer PyTorch Model Profiler for Checking Model Time Consumption](https://github.com/awwong1/torchprof)
