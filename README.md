@@ -368,6 +368,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Quantile Regression DQN](https://github.com/ars-ashuha/quantile-regression-dqn-pytorch)
 
 ## Time Series
+- [DILATE: DIstortion Loss with shApe and tImE](https://github.com/vincent-leguen/DILATE)
 - [Variational Recurrent Autoencoder for Timeseries Clustering](https://github.com/tejaslodaya/timeseries-clustering-vae)
 - [Spatio-Temporal Neural Networks for Space-Time Series Modeling and Relations Discovery](https://github.com/edouardelasalles/stnn)
 
