@@ -133,6 +133,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
 
 ## 3D Segmentation, Classification and Regression
+- [Kaolin, Library for Accelerating 3D Deep Learning Research](https://github.com/NVIDIAGameWorks/kaolin)
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/fxia22/pointnet.pytorch)
 
 ## Video Recognition
