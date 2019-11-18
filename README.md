@@ -56,6 +56,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 
 ## Long-Tailed / Out-of-Distribution Recognition
+- [Invariant Risk Minimization](https://github.com/facebookresearch/InvariantRiskMinimization)
 - [Training Confidence-Calibrated Classifier for Detecting Out-of-Distribution Samples](https://github.com/alinlab/Confident_classifier)
 - [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure)
 - [Large-Scale Long-Tailed Recognition in an Open World](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
