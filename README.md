@@ -391,6 +391,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## New Thinking on General Neural Network Architecture
 - [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/andrewliao11/dni.pytorch)
 
+## Linear Algebra
+- [Eigenvectors from Eigenvalues](https://github.com/ritchieng/eigenvectors-from-eigenvalues)
+
 ## To be Classified
 - [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
 - [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
