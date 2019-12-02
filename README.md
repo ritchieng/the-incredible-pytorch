@@ -56,6 +56,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
 
 ## Long-Tailed / Out-of-Distribution Recognition
+- [Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://github.com/kohpangwei/group_DRO)
 - [Invariant Risk Minimization](https://github.com/facebookresearch/InvariantRiskMinimization)
 - [Training Confidence-Calibrated Classifier for Detecting Out-of-Distribution Samples](https://github.com/alinlab/Confident_classifier)
 - [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure)
