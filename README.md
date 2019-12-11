@@ -391,6 +391,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://github.com/emited/flow)
 
 ## New Thinking on General Neural Network Architecture
+- [Complement Objective Training](https://github.com/henry8527/COT)
 - [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/andrewliao11/dni.pytorch)
 
 ## Linear Algebra
