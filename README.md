@@ -139,6 +139,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/fxia22/pointnet.pytorch)
 
 ## Video Recognition
+- [Dancing to Music](https://github.com/NVlabs/Dancing2Music)
 - [Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://github.com/nv-tlabs/STEAL)
 - [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
