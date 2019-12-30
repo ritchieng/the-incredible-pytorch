@@ -344,6 +344,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Sentiment Analysis
 - [Recurrent Neural Networks for Sentiment Analysis (Aspect-Based) on SemEval 2014](https://github.com/vanzytay/pytorch_sentiment_rnn)
 - [Seq2Seq Intent Parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing)
+- [Finetuning BERT for Sentiment Analysis](https://github.com/barissayil/SentimentAnalysis)
 
 ## Deep Reinforcement Learning
 - [Temporal Difference VAE](https://openreview.net/pdf?id=S1x4ghC9tQ)
