@@ -63,6 +63,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Large-Scale Long-Tailed Recognition in an Open World](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Principled Detection of Out-of-Distribution Examples in Neural Networks](https://github.com/ShiyuLiang/odin-pytorch)
 - [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://github.com/uoguelph-mlrg/confidence_estimation)
+- [PyTorch Imbalanced Class Sampler](https://github.com/ufoym/imbalanced-dataset-sampler)
 
 ## Energy-Based Learning
 - [EBGAN, Energy-Based GANs](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ebgan/ebgan.py)
