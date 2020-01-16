@@ -432,6 +432,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## PyTorch Utilities
+- [PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 - [Kornia: an Open Source Differentiable Computer Vision Library for PyTorch](https://kornia.org/)
 - [BackPACK to easily Extract Variance, Diagonal of Gauss-Newton, and KFAC](https://f-dangel.github.io/backpack/)
 - [Hessian in PyTorch](https://github.com/mariogeiger/hessian)
