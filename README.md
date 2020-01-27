@@ -16,6 +16,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Dive Into Deep Learning with PyTorch](https://github.com/dsgiitr/d2l-pytorch)
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 - [Minicourse in Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
+- [C++ Implementation of PyTorch Tutorial](https://github.com/prabhuomkar/pytorch-cpp)
 - [Simple Examples to Introduce PyTorch](https://github.com/jcjohnson/pytorch-examples)
 - [Mini Tutorials in PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
 - [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
