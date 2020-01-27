@@ -436,6 +436,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 - [Kornia: an Open Source Differentiable Computer Vision Library for PyTorch](https://kornia.org/)
 - [BackPACK to easily Extract Variance, Diagonal of Gauss-Newton, and KFAC](https://f-dangel.github.io/backpack/)
+- [PyHessian for Computing Hessian Eigenvalues, trace of matrix, and ESD](https://github.com/amirgholami/PyHessian)
 - [Hessian in PyTorch](https://github.com/mariogeiger/hessian)
 - [Differentiable Convex Layers](https://github.com/cvxgrp/cvxpylayers)
 - [Albumentations: Fast Image Augmentation Library](https://github.com/albu/albumentations)
