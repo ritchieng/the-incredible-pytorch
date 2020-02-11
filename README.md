@@ -41,6 +41,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
 ## Explainability
+- [Efficient Covariance Estimation from Temporal Data](https://github.com/hrayrhar/T-CorEx)
 - [Hierarchical interpretations for neural network predictions](https://github.com/csinva/hierarchical-dnn-interpretations)
 - [Shap, a unified approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
 - [VIsualizing PyTorch saved .pth deep learning models with netron](https://github.com/lutzroeder/netron)
