@@ -233,6 +233,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://github.com/ermongroup/neuralsort)
 
 # Ordinary Differential Equations Networks
+- [Latent ODEs for Irregularly-Sampled Time Series](https://github.com/YuliaRubanova/latent_ode)
 - [GRU-ODE-Bayes: continuous modelling of sporadically-observed time series](https://github.com/edebrouwer/gru_ode_bayes)
 
 ## Multi-task Learning
