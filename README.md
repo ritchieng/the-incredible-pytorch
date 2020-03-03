@@ -80,6 +80,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/zsef123/EfficientNets-PyTorch)
 
 ## Optimization
+- [AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, NovoGrad, RAdam, SGDW, Yogi and more](https://github.com/jettify/pytorch-optimizer)
 - [Lookahead Optimizer: k steps forward, 1 step back](https://github.com/alphadl/lookahead.pytorch)
 - [RAdam, On the Variance of the Adaptive Learning Rate and Beyond](https://github.com/LiyuanLucasLiu/RAdam)
 - [Over9000, Comparison of RAdam, Lookahead, Novograd, and combinations](https://github.com/mgrankin/over9000)
