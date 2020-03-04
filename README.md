@@ -281,6 +281,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [torchgan: Framework for modelling Generative Adversarial Networks in Pytorch](https://github.com/torchgan/torchgan)
 
 ## Unsupervised Learning 
+- [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
 - [AND: Anchor Neighbourhood Discovery](https://github.com/Raymond-sci/AND)
 
 ## Adversarial Attacks
