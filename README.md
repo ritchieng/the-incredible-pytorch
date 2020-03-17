@@ -39,6 +39,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/jacobgil/pytorch-grad-cam)
 - [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+- [DeepDream: dream-like hallucinogenic visuals](https://github.com/ProGamerGov/neural-dream)
 
 ## Explainability
 - [Efficient Covariance Estimation from Temporal Data](https://github.com/hrayrhar/T-CorEx)
