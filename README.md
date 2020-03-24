@@ -151,6 +151,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Dancing to Music](https://github.com/NVlabs/Dancing2Music)
 - [Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://github.com/nv-tlabs/STEAL)
 - [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+- [PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs](https://github.com/thuml/predrnn-pytorch)
 
 ## Recurrent Neural Networks (RNNs)
 - [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://github.com/yikangshen/Ordered-Neurons)
