@@ -425,26 +425,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Linear Algebra
 - [Eigenvectors from Eigenvalues](https://github.com/ritchieng/eigenvectors-from-eigenvalues)
 
-## To be Classified
-- [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
-- [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
-- [Scaling the Scattering Transform: Deep Hybrid Networks](https://github.com/edouardoyallon/pyscatwave)
-- [CortexNet: a Generic Network Family for Robust Visual Temporal Representations](https://github.com/e-lab/pytorch-CortexNet)
-- [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
-- [Associative Compression Networks](https://github.com/jalexvig/associative_compression_networks)
-- [Clarinet](https://github.com/ksw0306/ClariNet)
-- [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
-- [mixup: Beyond Empirical Risk Minimization](https://github.com/leehomyc/mixup_pytorch)
-- [Network In Network](https://github.com/szagoruyko/functional-zoo)
-- [Highway Networks](https://github.com/c0nn3r/pytorch_highway_networks)
-- [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
-- [Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
-- [Differentiable Neural Computer](https://github.com/jingweiz/pytorch-dnc)
-- [A Neural Representation of Sketch Drawings](https://github.com/alexis-jacq/Pytorch-Sketch-RNN)
-- [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
-- [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
-- [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
-- [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
+## API Abstraction
+- [Torch Layers, Shape inference for PyTorch, SOTA Layers](https://github.com/szymonmaszke/torchlayers)
 
 ## Low Level Utilities
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
@@ -495,6 +477,27 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Links to This Repository
 - [Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
 - [Website](https://www.ritchieng.com/the-incredible-pytorch/)
+
+## To be Classified
+- [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
+- [Accurate Neural Network Potential](https://github.com/aiqm/torchani)
+- [Scaling the Scattering Transform: Deep Hybrid Networks](https://github.com/edouardoyallon/pyscatwave)
+- [CortexNet: a Generic Network Family for Robust Visual Temporal Representations](https://github.com/e-lab/pytorch-CortexNet)
+- [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
+- [Associative Compression Networks](https://github.com/jalexvig/associative_compression_networks)
+- [Clarinet](https://github.com/ksw0306/ClariNet)
+- [Continuous Wavelet Transforms](https://github.com/tomrunia/PyTorchWavelets)
+- [mixup: Beyond Empirical Risk Minimization](https://github.com/leehomyc/mixup_pytorch)
+- [Network In Network](https://github.com/szagoruyko/functional-zoo)
+- [Highway Networks](https://github.com/c0nn3r/pytorch_highway_networks)
+- [Hybrid computing using a neural network with dynamic external memory](https://github.com/ypxie/pytorch-NeuCom)
+- [Value Iteration Networks](https://github.com/onlytailei/PyTorch-value-iteration-networks)
+- [Differentiable Neural Computer](https://github.com/jingweiz/pytorch-dnc)
+- [A Neural Representation of Sketch Drawings](https://github.com/alexis-jacq/Pytorch-Sketch-RNN)
+- [Understanding Deep Image Representations by Inverting Them](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+- [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
+- [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
+- [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
 
 ## Contributions
 Do feel free to contribute!
