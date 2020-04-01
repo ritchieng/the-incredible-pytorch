@@ -360,6 +360,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Finetuning BERT for Sentiment Analysis](https://github.com/barissayil/SentimentAnalysis)
 
 ## Deep Reinforcement Learning
+- [Exploration by Random Network Distillation](https://github.com/openai/random-network-distillation)
 - [EGG: Emergence of lanGuage in Games, quickly implement multi-agent games with discrete channel communication](https://github.com/facebookresearch/EGG)
 - [Temporal Difference VAE](https://openreview.net/pdf?id=S1x4ghC9tQ)
 - [High-performance Atari A3C Agent in 180 Lines PyTorch](https://github.com/greydanus/baby-a3c)
