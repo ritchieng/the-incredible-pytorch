@@ -25,14 +25,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
 - [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 - [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
+- [Effective PyTorch, Optimizing Runtime with TorchScript and Numerical Stability Optimization](https://github.com/vahidk/EffectivePyTorch)
 - [Practical PyTorch](https://github.com/spro/practical-pytorch)
 - [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
-	- A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning.
-	- [Get started Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/getStarted_tutorial.md)
-	- [Mnist Tutorial](https://github.com/moemen95/PyTorch-Project-Template/blob/master/tutorials/mnist_tutorial.md)
-	- [ERFNET](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/erfnet.py)
-	- [DCGAN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dcgan.py)
-	- [DQN](https://github.com/moemen95/PyTorch-Project-Template/blob/master/agents/dqn.py)
 
 ## Visualization
 - [Loss Visualization](https://github.com/tomgoldstein/loss-landscape)
@@ -364,6 +359,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Finetuning BERT for Sentiment Analysis](https://github.com/barissayil/SentimentAnalysis)
 
 ## Deep Reinforcement Learning
+- [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://github.com/denisyarats/drq)
 - [Exploration by Random Network Distillation](https://github.com/openai/random-network-distillation)
 - [EGG: Emergence of lanGuage in Games, quickly implement multi-agent games with discrete channel communication](https://github.com/facebookresearch/EGG)
 - [Temporal Difference VAE](https://openreview.net/pdf?id=S1x4ghC9tQ)
