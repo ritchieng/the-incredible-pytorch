@@ -35,6 +35,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [SmoothGrad: removing noise by adding noise](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [DeepDream: dream-like hallucinogenic visuals](https://github.com/ProGamerGov/neural-dream)
+- [FlashTorch: Visualization toolkit for neural networks in PyTorch](https://github.com/MisaOgura/flashtorch)
+- [Lucent: Lucid adapted for PyTorch](https://github.com/greentfrapp/lucent)
 
 ## Explainability
 - [Efficient Covariance Estimation from Temporal Data](https://github.com/hrayrhar/T-CorEx)
