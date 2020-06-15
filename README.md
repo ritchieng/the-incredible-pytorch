@@ -431,6 +431,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## API Abstraction
 - [Torch Layers, Shape inference for PyTorch, SOTA Layers](https://github.com/szymonmaszke/torchlayers)
+- [Hummingbird, run trained scikit-learn models on GPU with PyTorch](https://github.com/microsoft/hummingbird)
 
 ## Low Level Utilities
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
@@ -471,7 +472,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
 - [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
 - [PyTorch For Deep Learning Full Course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
-
 
 ## Datasets
 - [Worldbank Data](https://github.com/mwouts/world_bank_data)
