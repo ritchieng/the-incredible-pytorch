@@ -143,6 +143,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Delira, lightweight framework for medical imaging prototyping](https://github.com/justusschock/delira)
 - [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://github.com/mattmacy/vnet.pytorch)
 - [Medical Torch, medical imaging framework for PyTorch](https://github.com/perone/medicaltorch)
+- [TorchXRayVision - A library for chest X-ray datasets and models. Including pre-trainined models.](https://github.com/mlmed/torchxrayvision)
 
 ## 3D Segmentation, Classification and Regression
 - [Kaolin, Library for Accelerating 3D Deep Learning Research](https://github.com/NVIDIAGameWorks/kaolin)
