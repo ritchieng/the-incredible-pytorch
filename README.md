@@ -469,11 +469,13 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
 - [Catalyst: High-level utils for PyTorch DL & RL research](https://github.com/catalyst-team/catalyst)
+- [PyTorch Lightning: Scalable and lightweight deep learning research framework](https://github.com/PyTorchLightning/pytorch-lightning)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
 - [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
 - [PyTorch For Deep Learning Full Course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+- [PyTorch Lightning 101 with Alfredo Canziani and William Falcon](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 
 ## Datasets
 - [Worldbank Data](https://github.com/mwouts/world_bank_data)
