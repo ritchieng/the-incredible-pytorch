@@ -37,6 +37,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DeepDream: dream-like hallucinogenic visuals](https://github.com/ProGamerGov/neural-dream)
 - [FlashTorch: Visualization toolkit for neural networks in PyTorch](https://github.com/MisaOgura/flashtorch)
 - [Lucent: Lucid adapted for PyTorch](https://github.com/greentfrapp/lucent)
+- [DreamCreator: Training GoogleNet models for DeepDream with custom datasets made simple](https://github.com/ProGamerGov/dream-creator)
 
 ## Explainability
 - [Efficient Covariance Estimation from Temporal Data](https://github.com/hrayrhar/T-CorEx)
