@@ -9,6 +9,9 @@
 
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). Feel free to make a pull request to contribute to this list.
 
+## Tabular Data
+- [PyTorch-TabNet: Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
+
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
