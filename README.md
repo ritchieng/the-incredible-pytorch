@@ -291,6 +291,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Simple Generative Adversarial Networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks)
 - [Adversarial Auto-encoders](https://github.com/fducau/AAE_pytorch)
 - [torchgan: Framework for modelling Generative Adversarial Networks in Pytorch](https://github.com/torchgan/torchgan)
+- [Evaluating Lossy Compression Rates of Deep Generative Models](https://github.com/huangsicong/rate_distortion)
 
 ## Unsupervised Learning 
 - [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
