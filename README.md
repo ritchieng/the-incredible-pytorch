@@ -475,6 +475,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Gluon to PyTorch model converter with code generation](https://github.com/nerox8664/gluon2pytorch)
 - [Catalyst: High-level utils for PyTorch DL & RL research](https://github.com/catalyst-team/catalyst)
 - [PyTorch Lightning: Scalable and lightweight deep learning research framework](https://github.com/PyTorchLightning/pytorch-lightning)
+- [PyTorch-Ignite: High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently](https://github.com/pytorch/ignite)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
