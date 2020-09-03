@@ -293,7 +293,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [torchgan: Framework for modelling Generative Adversarial Networks in Pytorch](https://github.com/torchgan/torchgan)
 - [Evaluating Lossy Compression Rates of Deep Generative Models](https://github.com/huangsicong/rate_distortion)
 
-## Unsupervised Learning 
+## Unsupervised Learning
 - [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
 - [AND: Anchor Neighbourhood Discovery](https://github.com/Raymond-sci/AND)
 
@@ -476,6 +476,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Catalyst: High-level utils for PyTorch DL & RL research](https://github.com/catalyst-team/catalyst)
 - [PyTorch Lightning: Scalable and lightweight deep learning research framework](https://github.com/PyTorchLightning/pytorch-lightning)
 - [PyTorch-Ignite: High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently](https://github.com/pytorch/ignite)
+- [torchvision: A package consisting of popular datasets, model architectures, and common image transformations for computer vision.](https://github.com/pytorch/vision)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
