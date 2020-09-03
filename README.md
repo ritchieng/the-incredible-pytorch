@@ -11,6 +11,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Tabular Data
 - [PyTorch-TabNet: Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
+- [carefree-learn: A minimal Automatic Machine Learning (AutoML) solution for tabular datasets based on PyTorch](https://github.com/carefree0910/carefree-learn)
 
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
