@@ -316,6 +316,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Image Captioning
 - [Neuraltalk 2, Image Captioning Model, in PyTorch](https://github.com/ruotianluo/neuraltalk2.pytorch)
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
+- [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](https://github.com/jcjohnson/densecap)
 
 ## Transformers
 - [Attention is all you need](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
