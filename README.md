@@ -60,6 +60,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Detectron models for Object Detection](https://github.com/ignacio-rocco/detectorch)
 - [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://github.com/potterhsu/SVHNClassifier-PyTorch)
 - [Whale Detector](https://github.com/TarinZ/whale-detector)
+- [Catalyst.Detection](https://github.com/catalyst-team/detection)
 
 ## Long-Tailed / Out-of-Distribution Recognition
 - [Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization](https://github.com/kohpangwei/group_DRO)
@@ -154,6 +155,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## 3D Segmentation, Classification and Regression
 - [Kaolin, Library for Accelerating 3D Deep Learning Research](https://github.com/NVIDIAGameWorks/kaolin)
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/fxia22/pointnet.pytorch)
+- [3D segmentation with MONAI and Catalyst](https://colab.research.google.com/drive/15wJus5WZPYxTYE51yBhIBNhk9Tj4k3BT?usp=sharing)
 
 ## Video Recognition
 - [Dancing to Music](https://github.com/NVlabs/Dancing2Music)
@@ -216,6 +218,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pywick - High-level batteries-included neural network training library for Pytorch](https://github.com/achaiah/pywick)
 - [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation)
 - [Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation](https://github.com/JianqiangWan/Super-BPD)
+- [Catalyst.Segmentation](https://github.com/catalyst-team/segmentation)
 
 ## Geometric Deep Learning: Graph & Irregular Structures
 - [PyTorch Geometric, Deep Learning Extension](https://github.com/rusty1s/pytorch_geometric)
@@ -294,6 +297,11 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Adversarial Auto-encoders](https://github.com/fducau/AAE_pytorch)
 - [torchgan: Framework for modelling Generative Adversarial Networks in Pytorch](https://github.com/torchgan/torchgan)
 - [Evaluating Lossy Compression Rates of Deep Generative Models](https://github.com/huangsicong/rate_distortion)
+- [Catalyst.GAN](https://github.com/catalyst-team/gan)
+    1. [Vanilla GAN](https://arxiv.org/abs/1406.2661)
+    2. [Conditional GAN](https://arxiv.org/abs/1411.1784)
+    3. [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+    4. [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 
 ## Unsupervised Learning
 - [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
@@ -392,6 +400,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Reinforcement learning models in ViZDoom environment with PyTorch](https://github.com/akolishchak/doom-net-pytorch)
 - [Reinforcement learning models using Gym and Pytorch](https://github.com/jingweiz/pytorch-rl)
 - [SLM-Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://github.com/kengz/SLM-Lab)
+- [Catalyst.RL](https://github.com/catalyst-team/catalyst-rl)
 
 ## Deep Bayesian Learning and Probabilistic Programmming
 - [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](https://github.com/BlackHC/BatchBALD)
@@ -494,6 +503,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
+- [Catalyst.Slack](https://join.slack.com/t/catalyst-team-core/shared_invite/zt-d9miirnn-z86oKDzFMKlMG4fgFdZafw)
 
 ## Links to This Repository
 - [Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
