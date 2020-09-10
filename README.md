@@ -490,6 +490,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Determined: Scalable deep learning platform with PyTorch support](https://github.com/determined-ai/determined)
 - [PyTorch-Ignite: High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently](https://github.com/pytorch/ignite)
 - [torchvision: A package consisting of popular datasets, model architectures, and common image transformations for computer vision.](https://github.com/pytorch/vision)
+- [Poutyne: A Keras-like framework for PyTorch and handles much of the boilerplating code needed to train neural networks.](https://github.com/GRAAL-Research/poutyne)
 
 ## PyTorch Video Tutorials
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD)
