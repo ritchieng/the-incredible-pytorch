@@ -291,6 +291,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://github.com/NVIDIA/semantic-segmentation)
 - [Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation](https://github.com/JianqiangWan/Super-BPD)
 - [Catalyst.Segmentation](https://github.com/catalyst-team/segmentation)
+- [Segmentation models with pretrained backbones](https://github.com/qubvel/segmentation_models.pytorch)
 
 ##  24. <a name='GeometricDeepLearningGraphIrregularStructures'></a>Geometric Deep Learning: Graph & Irregular Structures
 - [PyTorch Geometric, Deep Learning Extension](https://github.com/rusty1s/pytorch_geometric)
