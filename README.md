@@ -496,6 +496,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [DILATE: DIstortion Loss with shApe and tImE](https://github.com/vincent-leguen/DILATE)
 - [Variational Recurrent Autoencoder for Timeseries Clustering](https://github.com/tejaslodaya/timeseries-clustering-vae)
 - [Spatio-Temporal Neural Networks for Space-Time Series Modeling and Relations Discovery](https://github.com/edouardelasalles/stnn)
+- [Flow Forecast: A deep learning for time series forecasting framework built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
 
 ##  49. <a name='SyntheticDatasets'></a>Synthetic Datasets
 - [Meta-Sim: Learning to Generate Synthetic Datasets](https://github.com/nv-tlabs/meta-sim)
