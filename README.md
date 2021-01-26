@@ -514,6 +514,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Neural Message Passing for Quantum Chemistry](https://github.com/priba/nmp_qc)
 - [Automatic chemical design using a data-driven continuous representation of molecules](https://github.com/cxhernandez/molencoder)
 - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://github.com/emited/flow)
+- [Differentiable Molecular Simulation for Learning and Control](https://github.com/wwang2/torchmd)
 
 ##  52. <a name='NewThinkingonGeneralNeuralNetworkArchitecture'></a>New Thinking on General Neural Network Architecture
 - [Complement Objective Training](https://github.com/henry8527/COT)
