@@ -318,6 +318,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [HypER: Hypernetwork Knowledge Graph Embeddings](https://github.com/ibalazevic/HypER)
 - [TuckER: Tensor Factorization for Knowledge Graph Completion](https://github.com/ibalazevic/TuckER)
 - [PyKEEN: A Python library for learning and evaluating knowledge graph embeddings](https://github.com/pykeen/pykeen/)
+- [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/benedekrozemberczki/PDN)
 
 ##  25. <a name='Sorting'></a>Sorting
 - [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://github.com/ermongroup/neuralsort)
