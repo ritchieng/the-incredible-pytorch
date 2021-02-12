@@ -27,7 +27,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 13. [Neural Network Compression](#NeuralNetworkCompression)
 14. [Facial, Action and Pose Recognition](#FacialActionandPoseRecognition)
 15. [Super resolution](#Superresolution)
-16. [Synthetesizing Views](#SynthetesizingViews)
+16. [Synthesizing Views](#SynthesizingViews)
 17. [Voice](#Voice)
 18. [Medical](#Medical)
 19. [3D Segmentation, Classification and Regression](#DSegmentationClassificationandRegression)
