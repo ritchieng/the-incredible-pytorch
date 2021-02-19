@@ -438,6 +438,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)
 - [OpenNMT](https://github.com/OpenNMT/OpenNMT-py)
 - [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
+- [WeNet: Production First and Production Ready End-to-End Speech Recognition Toolkit](https://github.com/mobvoi/wenet)
 
 ##  39. <a name='DocumentandTextClassification'></a>Document and Text Classification
 - [Hierarchical Attention Network for Document Classification](https://github.com/cedias/HAN-pytorch)
