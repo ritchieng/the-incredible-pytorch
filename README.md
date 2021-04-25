@@ -117,6 +117,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [CNN Feature Map Visualisation](https://github.com/lewis-morris/mapextrackt)
 
 ##  4. <a name='Explainability'></a>Explainability
+- [Neural-Backed Decision Trees](https://github.com/alvinwan/neural-backed-decision-trees)
 - [Efficient Covariance Estimation from Temporal Data](https://github.com/hrayrhar/T-CorEx)
 - [Hierarchical interpretations for neural network predictions](https://github.com/csinva/hierarchical-dnn-interpretations)
 - [Shap, a unified approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
