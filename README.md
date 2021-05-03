@@ -157,6 +157,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
  - [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series)
 
 ## <a name='ArchitectureSearch'></a>Architecture Search
+- [EfficientNetV2](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [DenseNAS](https://github.com/JaminFong/DenseNAS)
 - [DARTS: Differentiable Architecture Search](https://github.com/quark0/darts)
 - [Efficient Neural Architecture Search (ENAS)](https://github.com/carpedm20/ENAS-pytorch)
