@@ -395,6 +395,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [AdverTorch - A Toolbox for Adversarial Robustness Research](https://github.com/BorealisAI/advertorch)
 
 ## <a name='StyleTransfer'></a>Style Transfer
+- [Pystiche: Framework for Neural Style Transfer](https://github.com/pystiche/pystiche)
 - [Detecting Adversarial Examples via Neural Fingerprinting](https://github.com/StephanZheng/neural-fingerprinting)
 - [A Neural Algorithm of Artistic Style](https://github.com/alexis-jacq/Pytorch-Tutorials)
 - [Multi-style Generative Network for Real-time Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
