@@ -405,6 +405,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Draw like Bob Ross](https://github.com/kendricktan/drawlikebobross)
 
 ## <a name='ImageCaptioning'></a>Image Captioning
+- [CLIP (Contrastive Language-Image Pre-Training)](https://github.com/openai/CLIP)
 - [Neuraltalk 2, Image Captioning Model, in PyTorch](https://github.com/ruotianluo/neuraltalk2.pytorch)
 - [Generate captions from an image with PyTorch](https://github.com/eladhoffer/captionGen)
 - [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](https://github.com/jcjohnson/densecap)
