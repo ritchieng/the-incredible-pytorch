@@ -546,6 +546,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
 
 ## <a name='PyTorchUtilities'></a>PyTorch Utilities
+- [Functorch: prototype of JAX-like composable Function transformers for PyTorch](https://github.com/zou3519/functorch)
 - [Poutyne: Simplified Framework for Training Neural Networks](https://github.com/GRAAL-Research/poutyne)
 - [PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 - [Kornia: an Open Source Differentiable Computer Vision Library for PyTorch](https://kornia.org/)
