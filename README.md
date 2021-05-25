@@ -173,6 +173,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [L-BFGS](https://github.com/hjmshi/PyTorch-LBFGS)
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://github.com/locuslab/optnet)
 - [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
+- [Surrogate Gradient Learning in Spiking Neural Networks](https://github.com/fzenke/spytorch)
 
 ## <a name='Quantization'></a>Quantization
 - [Additive Power-of-Two Quantization: An Efficient Non-uniform Discretization For Neural Networks](https://github.com/yhhhli/APoT_Quantization)
