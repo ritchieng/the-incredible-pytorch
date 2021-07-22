@@ -243,6 +243,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs](https://github.com/thuml/predrnn-pytorch)
 
 ## <a name='RecurrentNeuralNetworksRNNs'></a>Recurrent Neural Networks (RNNs)
+- [SRU: training RNNs as fast as CNNs](https://github.com/asappresearch/sru)
 - [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://github.com/yikangshen/Ordered-Neurons)
 - [Averaged Stochastic Gradient Descent with Weight Dropped LSTM](https://github.com/salesforce/awd-lstm-lm)
 - [Training RNNs as Fast as CNNs](https://github.com/taolei87/sru)
