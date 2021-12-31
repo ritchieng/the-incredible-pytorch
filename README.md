@@ -304,6 +304,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='GeometricDeepLearning:GraphIrregularStructures'></a>Geometric Deep Learning: Graph & Irregular Structures
 - [PyTorch Geometric, Deep Learning Extension](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch Geometric Temporal: A Temporal Extension Library for PyTorch Geometric](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
+- [ChemicalX: A PyTorch Based Deep Learning Library for Drug Pair Scoring](https://github.com/AstraZeneca/chemicalx)
 - [Self-Attention Graph Pooling](https://github.com/inyeoplee77/SAGPool)
 - [Position-aware Graph Neural Networks](https://github.com/JiaxuanYou/P-GNN)
 - [Signed Graph Convolutional Neural Network](https://github.com/benedekrozemberczki/SGCN)
