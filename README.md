@@ -304,6 +304,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='GeometricDeepLearning:GraphIrregularStructures'></a>Geometric Deep Learning: Graph & Irregular Structures
 - [PyTorch Geometric, Deep Learning Extension](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch Geometric Temporal: A Temporal Extension Library for PyTorch Geometric](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
+- [PyTorch Geometric Signed Directed: A Signed & Directed Extension Library for PyTorch Geometric](https://github.com/SherylHYX/pytorch_geometric_signed_directed)
 - [ChemicalX: A PyTorch Based Deep Learning Library for Drug Pair Scoring](https://github.com/AstraZeneca/chemicalx)
 - [Self-Attention Graph Pooling](https://github.com/inyeoplee77/SAGPool)
 - [Position-aware Graph Neural Networks](https://github.com/JiaxuanYou/P-GNN)
@@ -328,6 +329,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TuckER: Tensor Factorization for Knowledge Graph Completion](https://github.com/ibalazevic/TuckER)
 - [PyKEEN: A Python library for learning and evaluating knowledge graph embeddings](https://github.com/pykeen/pykeen/)
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/benedekrozemberczki/PDN)
+- [SSSNET: Semi-Supervised Signed Network Clustering](https://github.com/SherylHYX/SSSNET_Signed_Clustering)
+- [MagNet: A Neural Network for Directed Graphs](https://github.com/matthew-hirn/magnet)
 
 ## <a name='Sorting'></a>Sorting
 - [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://github.com/ermongroup/neuralsort)
