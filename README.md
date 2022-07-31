@@ -105,6 +105,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Effective PyTorch, Optimizing Runtime with TorchScript and Numerical Stability Optimization](https://github.com/vahidk/EffectivePyTorch)
 - [Practical PyTorch](https://github.com/spro/practical-pytorch)
 - [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
+- [Semantic Search with PyTorch](https://github.com/kuutsav/information-retrieval)
 
 ## <a name='Visualization'></a>Visualization
 - [Loss Visualization](https://github.com/tomgoldstein/loss-landscape)
