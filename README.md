@@ -130,6 +130,13 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='ObjectDetection'></a>Object Detection
 - [MMDetection Object Detection Toolbox](https://github.com/open-mmlab/mmdetection)
 - [Mask R-CNN Benchmark: Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
+- [YOLOS](https://github.com/hustvl/YOLOS)
+- [YOLOF](https://github.com/megvii-model/YOLOF)
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+- [Yolov7](https://github.com/WongKinYiu/yolov7)
+- [YOLOv6](https://github.com/meituan/YOLOv6)
+- [Yolov5](https://github.com/ultralytics/yolov5)
+- [Yolov4](https://github.com/AlexeyAB/darknet)
 - [YOLOv3](https://github.com/ultralytics/yolov3)
 - [YOLOv2: Real-Time Object Detection](https://github.com/longcw/yolo2-pytorch)
 - [SSD: Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch)
