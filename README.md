@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-8400+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-1700+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-9000+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-1800+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
@@ -353,6 +353,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
 
 ## <a name='GANsVAEsandAEs'></a>GANs, VAEs, and AEs
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 - [BigGAN: Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://github.com/ajbrock/BigGAN-PyTorch)
 - [High Fidelity Performance Metrics for Generative Models in PyTorch](https://github.com/toshas/torch-fidelity)
 - [Mimicry, PyTorch Library for Reproducibility of GAN Research](https://github.com/kwotsin/mimicry)
