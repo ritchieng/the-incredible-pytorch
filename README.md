@@ -643,4 +643,4 @@ tube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 ## <a name='Contributions'></a>Contributions
 Do feel free to contribute!
 
-You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point.
+You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point or create a new section if it's a new category.
