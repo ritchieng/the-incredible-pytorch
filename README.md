@@ -53,6 +53,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 * [Speech Generation and Recognition](#SpeechGenerationandRecognition)
 * [Document and Text Classification](#DocumentandTextClassification)
 * [Text Generation](#TextGeneration)
+* [Text to Image](#TexttoImage)
 * [Translation](#Translation)
 * [Sentiment Analysis](#SentimentAnalysis)
 * [Deep Reinforcement Learning](#DeepReinforcementLearning)
@@ -476,6 +477,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## <a name='TextGeneration'></a>Text Generation
 - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
+
+## <a name='TexttoImage'></a>Text to Image
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusionn)
 
 ## <a name='Translation'></a>Translation
 - [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
