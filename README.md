@@ -354,7 +354,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
 
 ## <a name='GANsVAEsandAEs'></a>GANs, VAEs, and AEs
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 - [BigGAN: Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://github.com/ajbrock/BigGAN-PyTorch)
 - [High Fidelity Performance Metrics for Generative Models in PyTorch](https://github.com/toshas/torch-fidelity)
 - [Mimicry, PyTorch Library for Reproducibility of GAN Research](https://github.com/kwotsin/mimicry)
@@ -479,7 +478,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
 
 ## <a name='TexttoImage'></a>Text to Image
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusionn)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
 ## <a name='Translation'></a>Translation
 - [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
