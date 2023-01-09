@@ -479,6 +479,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## <a name='TexttoImage'></a>Text to Image
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+- [Dall-E 2](https://github.com/lucidrains/DALLE2-pytorch)
+- [Dall-E](https://github.com/lucidrains/DALLE-pytorch)
 
 ## <a name='Translation'></a>Translation
 - [Open-source (MIT) Neural Machine Translation (NMT) System](https://github.com/OpenNMT/OpenNMT-py)
