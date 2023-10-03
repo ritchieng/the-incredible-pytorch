@@ -75,10 +75,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 	- [Low Level Utilities](#low-level-utilities)
 	- [PyTorch Utilities](#pytorch-utilities)
 	- [PyTorch Video Tutorials](#pytorch-video-tutorials)
-	- [Datasets](#datasets)
 	- [Community](#community)
-	- [Links to This Repository](#links-to-this-repository)
 	- [To be Classified](#to-be-classified)
+	- [Links to This Repository](#links-to-this-repository)
 	- [Contributions](#contributions)
 
 <!-- vscode-markdown-toc-config
@@ -631,21 +630,15 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='PyTorchVideoTutorials'></a>PyTorch Video Tutorials
 - [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
 - [PyTorch For Deep Learning Full Course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
-- [PyTorch Lightning 101 with Alfredo Canziani and William Falcon](https://www.you
-tube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+- [PyTorch Lightning 101 with Alfredo Canziani and William Falcon](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 - [Practical Deep Learning with PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch)
 
-## <a name='Datasets'></a>Datasets
-- [Worldbank Data](https://github.com/mwouts/world_bank_data)
 
 ## <a name='Community'></a>Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
 - [Catalyst.Slack](https://join.slack.com/t/catalyst-team-core/shared_invite/zt-d9miirnn-z86oKDzFMKlMG4fgFdZafw)
 
-## <a name='LinkstoThisRepository'></a>Links to This Repository
-- [Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
-- [Website](https://www.ritchieng.com/the-incredible-pytorch/)
 
 ## <a name='TobeClassified'></a>To be Classified
 - [Perturbative Neural Networks](https://github.com/michaelklachko/pnn.pytorch)
@@ -667,6 +660,11 @@ tube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 - [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
 - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
 - [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
+
+## <a name='LinkstoThisRepository'></a>Links to This Repository
+- [Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
+- [Website](https://www.ritchieng.com/the-incredible-pytorch/)
+
 
 ## <a name='Contributions'></a>Contributions
 Do feel free to contribute!
