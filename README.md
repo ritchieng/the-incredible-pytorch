@@ -118,7 +118,10 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
 - Chinese
   - [Chinese Vicuna](https://github.com/Facico/Chinese-Vicuna)
-
+- Retrieval Augmented Generation (RAG)
+  - [LlamaIndex, data framework for your LLM application](https://github.com/run-llama/llama_index)
+- Embeddings
+  - [ChromaDB, open-source embedding database](https://github.com/chroma-core/chroma)
 
 ## <a name='TabularData'></a>Tabular Data
 - [PyTorch-TabNet: Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
