@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-9000+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-1800+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-10000+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-1900+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
