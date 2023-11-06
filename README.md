@@ -113,6 +113,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Mosaic Pretrained Transformers (MPT)](https://github.com/mosaicml/llm-foundry)
   - [Dolly](https://github.com/databrickslabs/dolly)
   - [Vicuna](https://github.com/lm-sys/FastChat)
+  - [Mistral 7B](https://github.com/mistralai/mistral-src)
 - Japanese
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
@@ -122,6 +123,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [LlamaIndex, data framework for your LLM application](https://github.com/run-llama/llama_index)
 - Embeddings
   - [ChromaDB, open-source embedding database](https://github.com/chroma-core/chroma)
+- Applications
+  - [Langchain, building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
 
 ## <a name='TabularData'></a>Tabular Data
 - [PyTorch-TabNet: Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
