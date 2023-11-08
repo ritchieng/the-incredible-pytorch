@@ -114,6 +114,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Dolly](https://github.com/databrickslabs/dolly)
   - [Vicuna](https://github.com/lm-sys/FastChat)
   - [Mistral 7B](https://github.com/mistralai/mistral-src)
+  - [BigDL LLM, library for running LLM (large language model) on Intel XPU (from Laptop to GPU to Cloud) using INT4 with very low latency1 (for any PyTorch model)](https://github.com/intel-analytics/BigDL)
+  - [Simple LLM Finetuner](https://github.com/lxe/simple-llm-finetuner)
 - Japanese
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
