@@ -129,6 +129,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Langchain, building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
 
 ## <a name='TabularData'></a>Tabular Data
+- [Pytorch Tabular,standard framework for modelling Deep Learning Models for tabular data](https://github.com/manujosephv/pytorch_tabular)
+- [Tab Transformer](https://github.com/lucidrains/tab-transformer-pytorch)
 - [PyTorch-TabNet: Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
 - [carefree-learn: A minimal Automatic Machine Learning (AutoML) solution for tabular datasets based on PyTorch](https://github.com/carefree0910/carefree-learn)
 
