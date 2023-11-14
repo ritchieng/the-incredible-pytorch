@@ -109,6 +109,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## <a name='LargeLanguageModels'></a>Large Language Models (LLMs)
 - General
+  - [Hugginface LLM Training Book, en collection of methodologies to help with successful training of large language models](https://github.com/huggingface/llm_training_handbook)
   - [Llama](https://github.com/facebookresearch/llama)
   - [Mosaic Pretrained Transformers (MPT)](https://github.com/mosaicml/llm-foundry)
   - [Dolly](https://github.com/databrickslabs/dolly)
