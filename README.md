@@ -129,6 +129,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [ChromaDB, open-source embedding database](https://github.com/chroma-core/chroma)
 - Applications
   - [Langchain, building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
+- Finetuning
+  - [Huggingface PEFT, State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
 
 ## <a name='TabularData'></a>Tabular Data
 - [Pytorch Tabular,standard framework for modelling Deep Learning Models for tabular data](https://github.com/manujosephv/pytorch_tabular)
