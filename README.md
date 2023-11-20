@@ -123,6 +123,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
 - Chinese
+  - [Chinese Llamma-2 7B](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)
   - [Chinese Vicuna](https://github.com/Facico/Chinese-Vicuna)
 - Retrieval Augmented Generation (RAG)
   - [LlamaIndex, data framework for your LLM application](https://github.com/run-llama/llama_index)
@@ -132,6 +133,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Langchain, building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
 - Finetuning
   - [Huggingface PEFT, State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
+- Quantization
+  - [AutoGPTQ, easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](ht tps://github.com/PanQiWei/AutoGPTQ)
 
 ## <a name='TabularData'></a>Tabular Data
 - [Pytorch Tabular,standard framework for modelling Deep Learning Models for tabular data](https://github.com/manujosephv/pytorch_tabular)
