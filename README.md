@@ -134,7 +134,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - Finetuning
   - [Huggingface PEFT, State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
 - Quantization
-  - [AutoGPTQ, easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](ht tps://github.com/PanQiWei/AutoGPTQ)
+  - [AutoGPTQ, easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](https://github.com/PanQiWei/AutoGPTQ)
 
 ## <a name='TabularData'></a>Tabular Data
 - [Pytorch Tabular,standard framework for modelling Deep Learning Models for tabular data](https://github.com/manujosephv/pytorch_tabular)
