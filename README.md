@@ -390,6 +390,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='Multi-taskLearning'></a>Multi-task Learning
 - [Hierarchical Multi-Task Learning Model](https://github.com/huggingface/hmtl)
 - [Task-based End-to-end Model Learning](https://github.com/locuslab/e2e-model-learning)
+- [torchMTL: A lightweight module for Multi-Task Learning in pytorch](https://github.com/chrisby/torchMTL)
 
 ## <a name='GANsVAEsandAEs'></a>GANs, VAEs, and AEs
 - [BigGAN: Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://github.com/ajbrock/BigGAN-PyTorch)
