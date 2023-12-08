@@ -120,6 +120,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Mistral 7B](https://github.com/mistralai/mistral-src)
   - [BigDL LLM, library for running LLM (large language model) on Intel XPU (from Laptop to GPU to Cloud) using INT4 with very low latency1 (for any PyTorch model)](https://github.com/intel-analytics/BigDL)
   - [Simple LLM Finetuner](https://github.com/lxe/simple-llm-finetuner)
+  - [Petals, run LLMs at home, BitTorrent-style, fine-tuning and inference up to 10x faster than offloading](https://github.com/bigscience-workshop/petals)
 - Japanese
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
