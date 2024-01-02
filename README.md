@@ -108,9 +108,11 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Semantic Search with PyTorch](https://github.com/kuutsav/information-retrieval)
 
 ## <a name='LargeLanguageModels'></a>Large Language Models (LLMs)
+- LLM Tutorials
+  - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
+  - [Hugginface LLM Training Book, a collection of methodologies to help with successful training of large language models](https://github.com/huggingface/llm_training_handbook)
 - General
   - [GPT Fast, fast and hackable pytorch native transformer inference](https://github.com/pytorch-labs/gpt-fast)
-  - [Hugginface LLM Training Book, a collection of methodologies to help with successful training of large language models](https://github.com/huggingface/llm_training_handbook)
   - [Llama](https://github.com/facebookresearch/llama)
   - [TinyLlama](https://github.com/jzhang38/TinyLlama)
   - [Mosaic Pretrained Transformers (MPT)](https://github.com/mosaicml/llm-foundry)
