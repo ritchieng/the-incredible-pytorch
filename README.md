@@ -113,6 +113,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Hugginface LLM Training Book, a collection of methodologies to help with successful training of large language models](https://github.com/huggingface/llm_training_handbook)
 - General
   - [GPT Fast, fast and hackable pytorch native transformer inference](https://github.com/pytorch-labs/gpt-fast)
+  - [Mixtral Offloading, run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading)
   - [Llama](https://github.com/facebookresearch/llama)
   - [TinyLlama](https://github.com/jzhang38/TinyLlama)
   - [Mosaic Pretrained Transformers (MPT)](https://github.com/mosaicml/llm-foundry)
