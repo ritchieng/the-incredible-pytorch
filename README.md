@@ -115,6 +115,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [GPT Fast, fast and hackable pytorch native transformer inference](https://github.com/pytorch-labs/gpt-fast)
   - [Mixtral Offloading, run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading)
   - [Llama](https://github.com/facebookresearch/llama)
+  - [Llama Recipes](https://github.com/facebookresearch/llama-recipes)
   - [TinyLlama](https://github.com/jzhang38/TinyLlama)
   - [Mosaic Pretrained Transformers (MPT)](https://github.com/mosaicml/llm-foundry)
   - [VLLM, high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
@@ -138,6 +139,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Langchain, building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
 - Finetuning
   - [Huggingface PEFT, State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
+- Training
+  - [Higgsfield, Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters](https://github.com/higgsfield-ai/higgsfield)
 - Quantization
   - [AutoGPTQ, easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](https://github.com/PanQiWei/AutoGPTQ)
 
