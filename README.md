@@ -112,6 +112,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
   - [Hugginface LLM Training Book, a collection of methodologies to help with successful training of large language models](https://github.com/huggingface/llm_training_handbook)
 - General
+  - [Starcoder 2, family of code generation models](https://github.com/bigcode-project/starcoder2)
   - [GPT Fast, fast and hackable pytorch native transformer inference](https://github.com/pytorch-labs/gpt-fast)
   - [Mixtral Offloading, run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading)
   - [Llama](https://github.com/facebookresearch/llama)
