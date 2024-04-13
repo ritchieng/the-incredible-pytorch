@@ -146,6 +146,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [AutoGPTQ, easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](https://github.com/PanQiWei/AutoGPTQ)
 
 ## <a name='TabularData'></a>Tabular Data
+- [PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning](https://github.com/pyg-team/pytorch-frame)
 - [Pytorch Tabular,standard framework for modelling Deep Learning Models for tabular data](https://github.com/manujosephv/pytorch_tabular)
 - [Tab Transformer](https://github.com/lucidrains/tab-transformer-pytorch)
 - [PyTorch-TabNet: Attentive Interpretable Tabular Learning](https://github.com/dreamquark-ai/tabnet)
