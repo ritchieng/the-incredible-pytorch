@@ -175,6 +175,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='ObjectDetection'></a>Object Detection
 - [MMDetection Object Detection Toolbox](https://github.com/open-mmlab/mmdetection)
 - [Mask R-CNN Benchmark: Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
+- [YOLO-World](https://github.com/AILab-CVC/YOLO-World)
 - [YOLOS](https://github.com/hustvl/YOLOS)
 - [YOLOF](https://github.com/megvii-model/YOLOF)
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
