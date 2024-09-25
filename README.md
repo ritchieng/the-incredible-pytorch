@@ -393,6 +393,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/benedekrozemberczki/PDN)
 - [SSSNET: Semi-Supervised Signed Network Clustering](https://github.com/SherylHYX/SSSNET_Signed_Clustering)
 - [MagNet: A Neural Network for Directed Graphs](https://github.com/matthew-hirn/magnet)
+- [PyTorch Geopooling: Geospatial Pooling Modules for Neural Networks in PyTorch](https://github.com/ybubnov/torch_geopooling)
 
 ## <a name='Sorting'></a>Sorting
 - [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://github.com/ermongroup/neuralsort)
