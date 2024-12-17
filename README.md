@@ -661,6 +661,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Poutyne: A Keras-like framework for PyTorch and handles much of the boilerplating code needed to train neural networks.](https://github.com/GRAAL-Research/poutyne)
 - [torchensemble: Scikit-Learn like ensemble methods in PyTorch](https://github.com/AaronX121/Ensemble-Pytorch)
 - [TorchFix - a linter for PyTorch-using code with autofix support](https://github.com/pytorch-labs/torchfix)
+- [pytorch360convert - Differentiable image conversions between 360° equirectangular images, cubemaps, and perspective projections](https://github.com/ProGamerGov/pytorch360convert)
+
 
 ## <a name='PyTorchVideoTutorials'></a>PyTorch Video Tutorials
 - [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
