@@ -179,6 +179,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [YOLOS](https://github.com/hustvl/YOLOS)
 - [YOLOF](https://github.com/megvii-model/YOLOF)
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+- [YOLOv12: Attention-Centric Real-Time Object Detectors](https://github.com/sunsmarterjie/yolov12)
 - [YOLOv11](https://github.com/ultralytics/ultralytics)
 - [YOLOv10](https://github.com/THU-MIG/yolov10)
 - [YOLOv9](https://github.com/WongKinYiu/yolov9)
