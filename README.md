@@ -90,6 +90,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
 - [Dive Into Deep Learning with PyTorch](https://github.com/d2l-ai/d2l-en)
+- [How to Read Pytorch](https://github.com/davidbau/how-to-read-pytorch)
 - [Minicourse in Deep Learning with PyTorch (Multi-language)](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 - [Practical Deep Learning with PyTorch](https://github.com/ritchieng/deep-learning-wizard)
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
@@ -395,6 +396,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/benedekrozemberczki/PDN)
 - [SSSNET: Semi-Supervised Signed Network Clustering](https://github.com/SherylHYX/SSSNET_Signed_Clustering)
 - [MagNet: A Neural Network for Directed Graphs](https://github.com/matthew-hirn/magnet)
+- [PyTorch Geopooling: Geospatial Pooling Modules for Neural Networks in PyTorch](https://github.com/ybubnov/torch_geopooling)
 
 ## <a name='Sorting'></a>Sorting
 - [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://github.com/ermongroup/neuralsort)
@@ -662,6 +664,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Poutyne: A Keras-like framework for PyTorch and handles much of the boilerplating code needed to train neural networks.](https://github.com/GRAAL-Research/poutyne)
 - [torchensemble: Scikit-Learn like ensemble methods in PyTorch](https://github.com/AaronX121/Ensemble-Pytorch)
 - [TorchFix - a linter for PyTorch-using code with autofix support](https://github.com/pytorch-labs/torchfix)
+- [pytorch360convert - Differentiable image conversions between 360° equirectangular images, cubemaps, and perspective projections](https://github.com/ProGamerGov/pytorch360convert)
+
 
 ## <a name='PyTorchVideoTutorials'></a>PyTorch Video Tutorials
 - [PyTorch Zero to All Lectures](http://bit.ly/PyTorchVideo)
