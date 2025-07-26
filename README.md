@@ -16,6 +16,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Table Of Contents](#table-of-contents)
 	- [Tutorials](#tutorials)
 	- [Large Language Models (LLMs)](#large-language-models-llms)
+	- [Agentic AI](#agentic-ai)
+	- [Guardrails and AI Safety](#guardrails-and-ai-safety)
 	- [Tabular Data](#tabular-data)
 	- [Visualization](#visualization)
 	- [Explainability](#explainability)
@@ -127,6 +129,12 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [BigDL LLM, library for running LLM (large language model) on Intel XPU (from Laptop to GPU to Cloud) using INT4 with very low latency1 (for any PyTorch model)](https://github.com/intel-analytics/BigDL)
   - [Simple LLM Finetuner](https://github.com/lxe/simple-llm-finetuner)
   - [Petals, run LLMs at home, BitTorrent-style, fine-tuning and inference up to 10x faster than offloading](https://github.com/bigscience-workshop/petals)
+  - [Gemma, Google's family of lightweight, state-of-the-art open models](https://github.com/google/gemma_pytorch)
+  - [Qwen, Alibaba Cloud's large language model](https://github.com/QwenLM/Qwen)
+  - [CodeT5, code-aware encoder-decoder model for code understanding and generation](https://github.com/salesforce/CodeT5)
+  - [OpenLLaMA, permissively licensed open source reproduction of Meta AI's LLaMA](https://github.com/openlm-research/open_llama)
+  - [RedPajama, leading open-source models with package to reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data)
+  - [MosaicML LLM Foundry, codebase for training, finetuning, and deploying LLMs](https://github.com/mosaicml/llm-foundry)
 - Japanese
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
@@ -139,12 +147,86 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [ChromaDB, open-source embedding database](https://github.com/chroma-core/chroma)
 - Applications
   - [Langchain, building applications with LLMs through composability](https://github.com/langchain-ai/langchain)
+  - [LangSmith, platform for building production-grade LLM applications](https://github.com/langchain-ai/langsmith-sdk)
+  - [LiteLLM, call all LLM APIs using the OpenAI format](https://github.com/BerriAI/litellm)
+  - [OpenAI Python, official Python library for the OpenAI API](https://github.com/openai/openai-python)
+  - [Guidance, library for controlling large language models](https://github.com/microsoft/guidance)
 - Finetuning
   - [Huggingface PEFT, State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
+  - [Unsloth, finetune LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
+  - [LoRA, Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
+  - [QLoRA, efficient finetuning of quantized LLMs](https://github.com/artidoro/qlora)
+  - [Axolotl, tool designed to streamline the fine-tuning of various AI models](https://github.com/OpenAccess-AI-Collective/axolotl)
+  - [LLaMA-Factory, unified efficient fine-tuning of 100+ LLMs](https://github.com/hiyouga/LLaMA-Factory)
 - Training
   - [Higgsfield, Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters](https://github.com/higgsfield-ai/higgsfield)
+  - [DeepSpeed, deep learning optimization library](https://github.com/microsoft/DeepSpeed)
+  - [FairScale, PyTorch extensions for high performance and large scale training](https://github.com/facebookresearch/fairscale)
+  - [Accelerate, simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision](https://github.com/huggingface/accelerate)
+  - [ColossalAI, unified deep learning system for large-scale model training and inference](https://github.com/hpcaitech/ColossalAI)
 - Quantization
   - [AutoGPTQ, easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](https://github.com/PanQiWei/AutoGPTQ)
+  - [BitsAndBytes, accessible large language models via k-bit quantization](https://github.com/TimDettmers/bitsandbytes)
+  - [GPTQ-for-LLaMa, 4 bits quantization of LLaMA using GPTQ](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
+  - [Optimum, acceleration of 🤗 Transformers and 🤗 Diffusers](https://github.com/huggingface/optimum)
+
+## <a name='AgenticAI'></a>Agentic AI
+- Multi-Agent Systems
+  - [LangGraph, library for building stateful, multi-actor applications with LLMs](https://github.com/langchain-ai/langgraph)
+  - [AutoGen, library that enables the creation of applications using multiple agents that can converse with each other](https://github.com/microsoft/autogen)
+  - [CrewAI, framework for orchestrating role-playing, autonomous AI agents](https://github.com/joaomdmoura/crewAI)
+  - [MetaGPT, multi-agent framework for software company simulation](https://github.com/geekan/MetaGPT)
+  - [AgentScope, user-friendly multi-agent platform](https://github.com/modelscope/agentscope)
+  - [Swarm, educational framework for building and deploying multi-agent systems](https://github.com/openai/swarm)
+- Autonomous Agents
+  - [AutoGPT, autonomous GPT-4 experiment to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/AutoGPT)
+  - [BabyAGI, example of an AI-powered task management system](https://github.com/yoheinakajima/babyagi)
+  - [LangChain Agents, building agents with LangChain](https://github.com/langchain-ai/langchain/tree/master/libs/langchain/langchain/agents)
+  - [ReAct: Reasoning and Acting with Language Models](https://github.com/princeton-nlp/react)
+  - [Voyager, open-ended embodied agent with large language models](https://github.com/MineDojo/Voyager)
+- Agent Orchestration and Frameworks  
+  - [Semantic Kernel, lightweight SDK for integrating AI services](https://github.com/microsoft/semantic-kernel)
+  - [OpenAI Function Calling, tools for function calling with OpenAI models](https://github.com/openai/openai-python)
+  - [LlamaIndex Agents, data agents with LlamaIndex](https://github.com/run-llama/llama_index/tree/main/llama-index-core/llama_index/core/agent)
+  - [Haystack Agents, building search and QA agents](https://github.com/deepset-ai/haystack)
+  - [DSPy, framework for algorithmically optimizing LM prompts and weights](https://github.com/stanfordnlp/dspy)
+- Planning and Reasoning
+  - [Tree of Thoughts, deliberate problem solving with large language models](https://github.com/princeton-nlp/tree-of-thought-llm)
+  - [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://github.com/billxbf/ReWOO)
+  - [Plan-and-Solve Prompting](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
+- Memory and Learning
+  - [MemGPT, creating LLM agents with long-term memory](https://github.com/cpacker/MemGPT)
+  - [Zep, fast, scalable building blocks for production LLM apps](https://github.com/getzep/zep)
+
+## <a name='GuardrailsandAISafety'></a>Guardrails and AI Safety
+- Content Filtering and Moderation
+  - [Guardrails AI, framework for building reliable AI applications](https://github.com/guardrails-ai/guardrails)
+  - [NeMo Guardrails, toolkit for building trustworthy, safe and secure LLM applications](https://github.com/NVIDIA/NeMo-Guardrails)
+  - [OpenAI Moderation API Tools](https://github.com/openai/moderation-api-release)
+  - [Detoxify, toxic comment classification using transformer models](https://github.com/unitaryai/detoxify)
+  - [Perspective API PyTorch Implementation, toxicity detection](https://github.com/conversationai/perspectiveapi)
+- Prompt Injection Defense
+  - [Prompt Injection Detector, detecting prompt injection attacks](https://github.com/protectai/rebuff)
+  - [LLM Guard, security toolkit for LLM interactions](https://github.com/protectai/llm-guard)
+  - [Garak, LLM vulnerability scanner](https://github.com/leondz/garak)
+- Bias Detection and Mitigation
+  - [FairLearn, toolkit for assessing and improving fairness](https://github.com/fairlearn/fairlearn)
+  - [AIF360, comprehensive set of fairness metrics and bias mitigation algorithms](https://github.com/Trusted-AI/AIF360)
+  - [What-If Tool, tool for analyzing and understanding ML models](https://github.com/PAIR-code/what-if-tool)
+- Privacy and Security
+  - [Opacus, library for training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
+  - [PySyft, secure and private Deep Learning framework](https://github.com/OpenMined/PySyft)
+  - [CrypTen, framework for Privacy Preserving Machine Learning](https://github.com/facebookresearch/CrypTen)
+  - [Adversarial Robustness Toolbox, library for adversarial attacks and defenses](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- Model Interpretability and Explainability
+  - [LIME, explaining the predictions of machine learning classifiers](https://github.com/marcotcr/lime)
+  - [SHAP, unified approach to explain the output of machine learning models](https://github.com/slundberg/shap)
+  - [InterpretML, interpret and understand machine learning models](https://github.com/interpretml/interpret)
+  - [Alibi, algorithms for explaining machine learning models](https://github.com/SeldonIO/alibi)
+- Safety Evaluation and Testing
+  - [AI Safety Gym, environments and tools for AI safety research](https://github.com/openai/safety-gym)
+  - [Anthropic's Constitutional AI implementations](https://github.com/anthropics/constitutional-ai)
+  - [HarmBench, standardized evaluation framework for automated red teaming](https://github.com/centerforaisafety/HarmBench)
 
 ## <a name='TabularData'></a>Tabular Data
 - [PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning](https://github.com/pyg-team/pytorch-frame)
