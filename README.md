@@ -679,6 +679,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Meta-Sim: Learning to Generate Synthetic Datasets](https://github.com/nv-tlabs/meta-sim)
 
 ## <a name='NeuralNetworkGeneralImprovements'></a>Neural Network General Improvements
+- [The Artificial Dendrite Network Library for PyTorch](https://github.com/PerforatedAI/PerforatedAI)
 - [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://github.com/mapillary/inplace_abn)
 - [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://github.com/eladhoffer/bigBatch)
 - [FreezeOut: Accelerate Training by Progressively Freezing Layers](https://github.com/ajbrock/FreezeOut)
