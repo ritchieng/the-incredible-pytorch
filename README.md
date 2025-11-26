@@ -292,11 +292,11 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## <a name='ActivationFunctions'></a>Activation Functions
 - [Rational Activations - Learnable Rational Activation Functions](https://github.com/ml-research/rational_activations)
+- [FreeGrad, PyTorch library for custom backward passes, straight-through estimators and gradient transforms.](https://github.com/tbox98/FreeGrad)
 
 ## <a name='Energy-BasedLearning'></a>Energy-Based Learning
 - [EBGAN, Energy-Based GANs](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ebgan/ebgan.py)
 - [Maximum Entropy Generators for Energy-based Models](https://github.com/ritheshkumar95/energy_based_generative_models)
-- [FreeGrad, PyTorch library for custom backward passes, straight-through estimators and gradient transforms.](https://github.com/tbox98/FreeGrad)
 
 
 ## <a name='MissingData'></a>Missing Data
