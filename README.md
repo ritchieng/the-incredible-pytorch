@@ -296,6 +296,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='Energy-BasedLearning'></a>Energy-Based Learning
 - [EBGAN, Energy-Based GANs](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ebgan/ebgan.py)
 - [Maximum Entropy Generators for Energy-based Models](https://github.com/ritheshkumar95/energy_based_generative_models)
+- [FreeGrad, PyTorch library for custom backward passes, straight-through estimators and gradient transforms.](https://github.com/tbox98/FreeGrad)
+
 
 ## <a name='MissingData'></a>Missing Data
  - [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series)
