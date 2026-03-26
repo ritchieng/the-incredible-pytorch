@@ -92,6 +92,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## <a name='Tutorials'></a>Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
+- [The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/)
 - [Dive Into Deep Learning with PyTorch](https://github.com/d2l-ai/d2l-en)
 - [How to Read Pytorch](https://github.com/davidbau/how-to-read-pytorch)
 - [Minicourse in Deep Learning with PyTorch (Multi-language)](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
