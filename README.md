@@ -136,6 +136,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [OpenLLaMA, permissively licensed open source reproduction of Meta AI's LLaMA](https://github.com/openlm-research/open_llama)
   - [RedPajama, leading open-source models with package to reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data)
   - [MosaicML LLM Foundry, codebase for training, finetuning, and deploying LLMs](https://github.com/mosaicml/llm-foundry)
+  - [TECS-L (Golden MoE), dense-to-MoE conversion framework with optimal inhibition ratio I≈1/e for PyTorch LLMs](https://github.com/need-singularity/TECS-L)
 - Japanese
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
@@ -681,6 +682,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Meta-Sim: Learning to Generate Synthetic Datasets](https://github.com/nv-tlabs/meta-sim)
 
 ## <a name='NeuralNetworkGeneralImprovements'></a>Neural Network General Improvements
+- [PH Training, persistent homology-based training monitor that detects overfitting early using topological data analysis](https://github.com/need-singularity/ph-training)
 - [The Artificial Dendrite Network Library for PyTorch](https://github.com/PerforatedAI/PerforatedAI)
 - [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://github.com/mapillary/inplace_abn)
 - [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://github.com/eladhoffer/bigBatch)
