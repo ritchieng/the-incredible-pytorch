@@ -584,6 +584,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## <a name='GeneralNLP'></a>General NLP
 - [nanoGPT, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
+- [llm.c, LLM training in simple, pure C/CUDA — GPT-2 in ~1000 lines of code with no PyTorch dependency](https://github.com/karpathy/llm.c)
 - [minGPT, Re-implementation of GPT to be small, clean, interpretable and educational](https://github.com/karpathy/minGPT)
 - [Espresso, Module Neural Automatic Speech Recognition Toolkit](https://github.com/freewym/espresso)
 - [Label-aware Document Representation via Hybrid Attention for Extreme Multi-Label Text Classification](https://github.com/HX-idiot/Hybrid_Attention_XML)
