@@ -68,6 +68,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Anomaly Detection](#anomaly-detection)
   - [Regression Types](#regression-types)
   - [Time Series](#time-series)
+  - [Financial Machine Learning](#financial-machine-learning)
   - [Synthetic Datasets](#synthetic-datasets)
   - [Neural Network General Improvements](#neural-network-general-improvements)
   - [DNN Applications in Chemistry and Physics](#dnn-applications-in-chemistry-and-physics)
@@ -679,6 +680,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Variational Recurrent Autoencoder for Timeseries Clustering](https://github.com/tejaslodaya/timeseries-clustering-vae)
 - [Spatio-Temporal Neural Networks for Space-Time Series Modeling and Relations Discovery](https://github.com/edouardelasalles/stnn)
 - [Flow Forecast: A deep learning for time series forecasting framework built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
+
+## <a name='FinancialMachineLearning'></a>Financial Machine Learning
+- [ml-quant-trading, PyTorch research stack for multi-factor trading with 213 factors, bias correction, portfolio optimization, and vectorized backtesting](https://github.com/initial-d/ml-quant-trading)
 
 ## <a name='SyntheticDatasets'></a>Synthetic Datasets
 - [Meta-Sim: Learning to Generate Synthetic Datasets](https://github.com/nv-tlabs/meta-sim)
