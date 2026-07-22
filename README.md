@@ -259,6 +259,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [VIsualizing PyTorch saved .pth deep learning models with netron](https://github.com/lutzroeder/netron)
 - [Distilling a Neural Network Into a Soft Decision Tree](https://github.com/kimhc6028/soft-decision-tree)
 - [Captum, A unified model interpretability library for PyTorch](https://github.com/pytorch/captum)
+- [bnnr, XAI failure reports with OptiCAM saliency overlays and ICD/AICD augmentation search for PyTorch vision models](https://github.com/bnnr-team/bnnr)
 
 ## <a name='ObjectDetection'></a>Object Detection
 - [MMDetection Object Detection Toolbox](https://github.com/open-mmlab/mmdetection)
