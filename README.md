@@ -330,6 +330,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Surrogate Gradient Learning in Spiking Neural Networks](https://github.com/fzenke/spytorch)
 - [TorchOpt: An Efficient Library for Differentiable Optimization](https://github.com/metaopt/torchopt)
 - [ph-training: Automatic Training with Persistent Homology](https://github.com/need-singularity/ph-training) - Uses topological data analysis (H0 persistence) to predict difficulty, find optimal LR, and detect overfitting in real-time (r=0.998).
+- [zij](https://github.com/junaidaliop/zij) - A canon of deep learning optimization algorithms.
 ## <a name='Quantization'></a>Quantization
 - [Additive Power-of-Two Quantization: An Efficient Non-uniform Discretization For Neural Networks](https://github.com/yhhhli/APoT_Quantization)
 
