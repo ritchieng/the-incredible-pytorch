@@ -19,6 +19,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [Agentic AI](#agentic-ai)
   - [Guardrails and AI Safety](#guardrails-and-ai-safety)
   - [Tabular Data](#tabular-data)
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation): Synthetic tabular data generation using CTGAN, ForestDiffusion, and GReaT (LLMs) with adversarial filtering and privacy metrics.
   - [Visualization](#visualization)
   - [Explainability](#explainability)
   - [Object Detection](#object-detection)
