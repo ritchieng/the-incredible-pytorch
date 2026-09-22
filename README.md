@@ -108,6 +108,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Deep Learning Tutorial for Researchers](https://github.com/yunjey/pytorch-tutorial)
 - [Fully Convolutional Networks implemented with PyTorch](https://github.com/wkentaro/pytorch-fcn)
 - [Simple PyTorch Tutorials Zero to ALL](https://github.com/hunkim/PyTorchZeroToAll)
+- [QuiddityML: Learn PyTorch and ML with Hands-On Exercises and Spaced Repetition](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=the-incredible-pytorch)
 - [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 - [MILA PyTorch Welcome Tutorials](https://github.com/mila-udem/welcome_tutorials)
 - [Effective PyTorch, Optimizing Runtime with TorchScript and Numerical Stability Optimization](https://github.com/vahidk/EffectivePyTorch)
