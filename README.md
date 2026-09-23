@@ -142,6 +142,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
   - [RedPajama, leading open-source models with package to reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data)
   - [MosaicML LLM Foundry, codebase for training, finetuning, and deploying LLMs](https://github.com/mosaicml/llm-foundry)
   - [TECS-L (Golden MoE), dense-to-MoE conversion framework with optimal inhibition ratio I≈1/e for PyTorch LLMs](https://github.com/need-singularity/TECS-L)
+  - [OpenLanguageModel (OLM), PyTorch-native library for building and training transformer language models out of readable nn.Modules, with architecture presets from GPT-2 to Llama 3, Qwen 3 and DeepSeek-V3](https://github.com/openlanguagemodel/openlanguagemodel)
 - Japanese
   - [Japanese Llama](https://github.com/masa3141/japanese-alpaca-lora)
   - [Japanese GPT Neox and Open Calm](https://github.com/hppRC/llm-lora-classification)
