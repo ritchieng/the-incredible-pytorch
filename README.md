@@ -724,6 +724,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## <a name='LowLevelUtilities'></a>Low Level Utilities
 - [TorchSharp, .NET API with access to underlying library powering PyTorch](https://github.com/interesaaat/TorchSharp)
+- [rgpu: a PyTorch device whose tensors live on a remote GPU, reached over SSH](https://github.com/ymcrcat/rgpu)
 
 ## <a name='PyTorchUtilities'></a>PyTorch Utilities
 - [Functorch: prototype of JAX-like composable Function transformers for PyTorch](https://github.com/zou3519/functorch)
