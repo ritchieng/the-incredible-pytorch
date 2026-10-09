@@ -621,6 +621,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [OpenNMT](https://github.com/OpenNMT/OpenNMT-py)
 - [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://github.com/SeanNaren/deepspeech.pytorch)
 - [WeNet: Production First and Production Ready End-to-End Speech Recognition Toolkit](https://github.com/mobvoi/wenet)
+- [Tiny Audio: Minimal, Hackable Codebase for Training LLM-based Speech Recognition](https://github.com/alexkroman/tiny-audio)
 
 ## <a name='DocumentandTextClassification'></a>Document and Text Classification
 - [Hierarchical Attention Network for Document Classification](https://github.com/cedias/HAN-pytorch)
