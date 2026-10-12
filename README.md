@@ -253,6 +253,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Lucent: Lucid adapted for PyTorch](https://github.com/greentfrapp/lucent)
 - [DreamCreator: Training GoogleNet models for DeepDream with custom datasets made simple](https://github.com/ProGamerGov/dream-creator)
 - [CNN Feature Map Visualisation](https://github.com/lewis-morris/mapextrackt)
+- [tensorViz](https://marketplace.visualstudio.com/items?itemName=tensorviz.tensorviz-vscode): Free VS Code extension for exploring PyTorch model graphs, inspecting captured tensor shapes, and navigating to Python source, with [public examples](https://github.com/tensorviz-org/tensorviz-examples).
 
 ## <a name='Explainability'></a>Explainability
 - [Neural-Backed Decision Trees](https://github.com/alvinwan/neural-backed-decision-trees)
