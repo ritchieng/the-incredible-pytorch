@@ -767,6 +767,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [TorchFix - a linter for PyTorch-using code with autofix support](https://github.com/pytorch-labs/torchfix)
 - [pytorch360convert - Differentiable image conversions between 360° equirectangular images, cubemaps, and perspective projections](https://github.com/ProGamerGov/pytorch360convert)
 - [torchcurves - differentiable parametric curve modules for PyTorch](https://github.com/alexshtf/torchcurves)
+- [HeyTensor - browser-based tensor shape calculator for 14 PyTorch layer types, with layer chaining and shape-error debugging](https://heytensor.com/)
 
 
 ## <a name='PyTorchVideoTutorials'></a>PyTorch Video Tutorials
