@@ -341,6 +341,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Tor10, generic tensor-network library for quantum simulation in PyTorch](https://github.com/kaihsin/Tor10)
 - [PennyLane, cross-platform Python library for quantum machine learning with PyTorch interface](https://github.com/XanaduAI/pennylane)
 - [QQA4CO, GPU-parallel Quasi-Quantum Annealing for combinatorial optimisation in PyTorch (ICLR 2025)](https://github.com/Yuma-Ichikawa/QQA4CO)
+- [eigenkit, hybrid quantum-classical models in PyTorch: a quantum circuit is a torch.nn.Module that runs unchanged on PennyLane, Qiskit, CUDA-Q, Qulacs and other simulators or on IBM, IQM and Amazon Braket QPUs](https://github.com/eigenorbit/eigenkit)
 
 ## <a name='NeuralNetworkCompression'></a>Neural Network Compression
 - [Bayesian Compression for Deep Learning](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)
